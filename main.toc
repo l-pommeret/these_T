@@ -1,0 +1,640 @@
+\babel@toc {french}{}\relax 
+\contentsline {chapter}{Introduction}{22}{chapter*.2}%
+\contentsline {part}{I\hspace {1em}Histoire politique et idéologique de l'enseignement du grec (1870-2024)}{26}{part.1}%
+\contentsline {chapter}{\numberline {1}L'invention d'une tradition (1870-1902)}{27}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Le traumatisme de Sedan : Le basculement du modèle Rhétorique (Jésuite/Production) au modèle Philologique (Allemand/Analyse)}{27}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}L'ancien régime pédagogique : le modèle rhétorique (jésuite/production)}{28}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Le \textit {ratio studiorum} et la primauté de l'\textit {eloquentia}}{28}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.3}La logique de la production : vers grecs et discours latins}{29}{subsection.1.1.3}%
+\contentsline {subsection}{\numberline {1.1.4}La distinction sociale et l'"honnête homme"}{29}{subsection.1.1.4}%
+\contentsline {subsection}{\numberline {1.1.5}Le traumatisme de sedan et la crise de la conscience française}{30}{subsection.1.1.5}%
+\contentsline {subsection}{\numberline {1.1.6}La "crise allemande" selon claude digeon}{30}{subsection.1.1.6}%
+\contentsline {subsection}{\numberline {1.1.7}La critique de la frivolité latine}{30}{subsection.1.1.7}%
+\contentsline {subsection}{\numberline {1.1.8}L'importation du modèle philologique : \textit {altertumswissenschaft} et rigueur}{31}{subsection.1.1.8}%
+\contentsline {subsection}{\numberline {1.1.9}La \textit {wissenschaft} contre les belles-lettres}{31}{subsection.1.1.9}%
+\contentsline {subsection}{\numberline {1.1.10}Le rôle de la grammaire comparée}{31}{subsection.1.1.10}%
+\contentsline {subsection}{\numberline {1.1.11}Les agents du basculement : michel bréal et l'université républicaine}{31}{subsection.1.1.11}%
+\contentsline {subsection}{\numberline {1.1.12}Michel bréal : le passeur de la philologie}{32}{subsection.1.1.12}%
+\contentsline {subsection}{\numberline {1.1.13}L'institutionnalisation de la recherche}{32}{subsection.1.1.13}%
+\contentsline {subsection}{\numberline {1.1.14}Les champs de bataille de la réforme (1880-1902)}{32}{subsection.1.1.14}%
+\contentsline {subsection}{\numberline {1.1.15}Le coup de force de 1880 : la mort du discours et du vers}{32}{subsection.1.1.15}%
+\contentsline {subsection}{\numberline {1.1.16}La résistance et l'argument de la "gymnastique mentale"}{33}{subsection.1.1.16}%
+\contentsline {subsection}{\numberline {1.1.17}La réforme de 1902 : la consécration de la bifurcation}{33}{subsection.1.1.17}%
+\contentsline {subsection}{\numberline {1.1.18}La transformation de l'enseignement du grec : de l'art à la science}{34}{subsection.1.1.18}%
+\contentsline {subsection}{\numberline {1.1.19}La survie du thème et l'hégémonie de la version}{34}{subsection.1.1.19}%
+\contentsline {subsection}{\numberline {1.1.20}L'histoire littéraire et la civilisation}{34}{subsection.1.1.20}%
+\contentsline {subsection}{\numberline {1.1.21}Annexes et données structurées}{35}{subsection.1.1.21}%
+\contentsline {subsection}{\numberline {1.1.22}Tableau 1 : confrontation des deux modèles pédagogiques}{35}{subsection.1.1.22}%
+\contentsline {subsection}{\numberline {1.1.23}Tableau 2 : chronologie du basculement}{36}{subsection.1.1.23}%
+\contentsline {subsection}{\numberline {1.1.24}Tableau 3 : l'évolution des épreuves (exemple de l'agrégation et du baccalauréat)}{36}{subsection.1.1.24}%
+\contentsline {section}{\numberline {1.2}Le "Coup d'État" de 1880 : Jules Ferry et Michel Bréal imposent la "Version"}{37}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}L'ancien régime pédagogique : l'hégémonie de la rhétorique et du « discours latin »}{37}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Le discours latin : la clé de voûte d'un système aristocratique}{37}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}L'ombre des jésuites et la critique politique}{38}{subsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.2.4}Le modèle allemand et la tentation scientifique : michel bréal, l'architecte intellectuel}{39}{subsection.1.2.4}%
+\contentsline {subsection}{\numberline {1.2.5}Le traumatisme de 1870 et le complexe de sedan}{39}{subsection.1.2.5}%
+\contentsline {subsection}{\numberline {1.2.6}Michel bréal : le passeur de la philologie allemande}{39}{subsection.1.2.6}%
+\contentsline {subsection}{\numberline {1.2.7}Le réquisitoire de bréal contre la rhétorique}{40}{subsection.1.2.7}%
+\contentsline {subsection}{\numberline {1.2.8}Le « coup d'état » de 1880 : mécanique et chronologie d'une révolution}{40}{subsection.1.2.8}%
+\contentsline {subsection}{\numberline {1.2.9}Le contexte politique : la guerre scolaire}{40}{subsection.1.2.9}%
+\contentsline {subsection}{\numberline {1.2.10}Les décrets de 1880 et la suppression du discours}{41}{subsection.1.2.10}%
+\contentsline {subsection}{\numberline {1.2.11}La résistance : « la question du latin »}{41}{subsection.1.2.11}%
+\contentsline {subsection}{\numberline {1.2.12}La version et la formation de l'élite républicaine : distinction et nationalisme}{42}{subsection.1.2.12}%
+\contentsline {subsection}{\numberline {1.2.13}La scientifisation de la sélection : l'épreuve de vérité}{42}{subsection.1.2.13}%
+\contentsline {subsection}{\numberline {1.2.14}Le nationalisme linguistique : apprendre le français par le latin}{42}{subsection.1.2.14}%
+\contentsline {subsection}{\numberline {1.2.15}La distinction sociale : l'analyse de pierre bourdieu}{42}{subsection.1.2.15}%
+\contentsline {subsection}{\numberline {1.2.16}Synthèse des données et tableaux comparatifs}{43}{subsection.1.2.16}%
+\contentsline {subsection}{\numberline {1.2.17}Tableau 1 : comparaison du modèle rhétorique (avant 1880\) et du modèle philologique (après 1880\)}{43}{subsection.1.2.17}%
+\contentsline {subsection}{\numberline {1.2.18}Tableau 2 : les acteurs clés du « coup d'état » de 1880}{44}{subsection.1.2.18}%
+\contentsline {subsection}{\numberline {1.2.19}Conséquences à long terme et débats historiographiques}{44}{subsection.1.2.19}%
+\contentsline {subsection}{\numberline {1.2.20}La persistance du « signe » (françoise waquet)}{44}{subsection.1.2.20}%
+\contentsline {subsection}{\numberline {1.2.21}La création d'une discipline scolaire autonome (andré chervel)}{45}{subsection.1.2.21}%
+\contentsline {subsection}{\numberline {1.2.22}L'esprit « khâgneux » et la dissertation}{45}{subsection.1.2.22}%
+\contentsline {section}{\numberline {1.3}La cristallisation épistémologique : Installation des trois dogmes}{46}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Le dogme de la gymnastique mentale : l'apologie de l'effort gratuit}{47}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Les racines théoriques : la psychologie des facultés et la discipline formelle}{47}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}L'analogie musculaire}{47}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.3.4}La résistance à la nouvelle psychologie}{47}{subsection.1.3.4}%
+\contentsline {subsection}{\numberline {1.3.5}Michel bréal : la rationalisation philologique de la gymnastique}{48}{subsection.1.3.5}%
+\contentsline {subsection}{\numberline {1.3.6}Contre le « perroquet », pour l'analyste}{48}{subsection.1.3.6}%
+\contentsline {subsection}{\numberline {1.3.7}Une caution scientifique pour les humanités}{48}{subsection.1.3.7}%
+\contentsline {subsection}{\numberline {1.3.8}La crise de 1911 : henri poincaré et la sacralisation mathématique du dogme}{49}{subsection.1.3.8}%
+\contentsline {subsection}{\numberline {1.3.9}La ligue pour la culture française}{49}{subsection.1.3.9}%
+\contentsline {subsection}{\numberline {1.3.10}L'intervention décisive d'henri poincaré}{49}{subsection.1.3.10}%
+\contentsline {subsection}{\numberline {1.3.11}Le « français des garçons de café »}{49}{subsection.1.3.11}%
+\contentsline {subsection}{\numberline {1.3.12}Tableau comparatif : évolution de la justification par la gymnastique mentale}{50}{subsection.1.3.12}%
+\contentsline {subsection}{\numberline {1.3.13}Le dogme du texte-monument : la pétrification philologique}{50}{subsection.1.3.13}%
+\contentsline {subsection}{\numberline {1.3.14}La mort de la rhétorique et la montée du modèle allemand}{50}{subsection.1.3.14}%
+\contentsline {subsection}{\numberline {1.3.15}L'arrêté de 1880 : le tournant}{50}{subsection.1.3.15}%
+\contentsline {subsection}{\numberline {1.3.16}La sacralisation par la version et l'explication}{51}{subsection.1.3.16}%
+\contentsline {subsection}{\numberline {1.3.17}La version : exercice de soumission}{51}{subsection.1.3.17}%
+\contentsline {subsection}{\numberline {1.3.18}L'explication de texte : la liturgie laïque}{51}{subsection.1.3.18}%
+\contentsline {subsection}{\numberline {1.3.19}L'échec programmé de la méthode directe : le refus de l'oralité}{52}{subsection.1.3.19}%
+\contentsline {subsection}{\numberline {1.3.20}Pourquoi pas le latin?}{52}{subsection.1.3.20}%
+\contentsline {subsection}{\numberline {1.3.21}Le dogme de l'élitisme : la distinction par l'inutile}{52}{subsection.1.3.21}%
+\contentsline {subsection}{\numberline {1.3.22}La fonction sociale du latin : bourdieu et la barrière symbolique}{53}{subsection.1.3.22}%
+\contentsline {subsection}{\numberline {1.3.23}La valeur de la gratuité}{53}{subsection.1.3.23}%
+\contentsline {subsection}{\numberline {1.3.24}Jules ferry et la « distance infranchissable »}{53}{subsection.1.3.24}%
+\contentsline {subsection}{\numberline {1.3.25}Le primaire supérieur vs le secondaire}{53}{subsection.1.3.25}%
+\contentsline {subsection}{\numberline {1.3.26}La guerre des filières (1880-1902) et la victoire symbolique}{54}{subsection.1.3.26}%
+\contentsline {subsection}{\numberline {1.3.27}La réaction de défense}{54}{subsection.1.3.27}%
+\contentsline {subsection}{\numberline {1.3.28}Le triomphe du dogme}{54}{subsection.1.3.28}%
+\contentsline {subsection}{\numberline {1.3.29}Tableaux de synthèse des données}{55}{subsection.1.3.29}%
+\contentsline {subsection}{\numberline {1.3.30}Tableau 1 : les vecteurs pédagogiques de la cristallisation (1880-1902)}{55}{subsection.1.3.30}%
+\contentsline {subsection}{\numberline {1.3.31}Tableau 2 : chronologie des événements clés}{55}{subsection.1.3.31}%
+\contentsline {chapter}{\numberline {2}La Citadelle assiégée : Le maintien du dogme face à la modernité (1902-1968)}{58}{chapter.2}%
+\contentsline {section}{\numberline {2.1}La Guerre des Langues (1902) : L'Humanisme classique contre les "Modernes"}{58}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Le diagnostic de la décadence : l'enquête ribot et la genèse de la réforme}{59}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}L'enlisement du modèle napoléonien et la crise des effectifs}{59}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Le procès de l'uniformité et de la centralisation}{60}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}La parole des acteurs : jaurès, berthelot et la défense de la culture}{60}{subsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.1.5}L'architecture de la réforme de 1902 : une révolution structurelle}{61}{subsection.2.1.5}%
+\contentsline {subsection}{\numberline {2.1.6}La logique des cycles : différenciation progressive}{61}{subsection.2.1.6}%
+\contentsline {subsection}{\numberline {2.1.7}Les quatre sections : une cartographie de la distinction}{62}{subsection.2.1.7}%
+\contentsline {subsection}{\numberline {2.1.8}Tableau 1 : architecture des sections du second cycle (réforme 1902\)}{62}{subsection.2.1.8}%
+\contentsline {subsection}{\numberline {2.1.9}L'égalité des sanctions : le mythe du baccalauréat unique}{62}{subsection.2.1.9}%
+\contentsline {subsection}{\numberline {2.1.10}La guerre idéologique : humanisme classique contre humanisme moderne}{63}{subsection.2.1.10}%
+\contentsline {subsection}{\numberline {2.1.11}La « question du latin » : raoul frary et les iconoclastes}{63}{subsection.2.1.11}%
+\contentsline {subsection}{\numberline {2.1.12}La riposte humaniste : la « gymnastique de l'esprit »}{63}{subsection.2.1.12}%
+\contentsline {subsection}{\numberline {2.1.13}La « crise du français » : une panique morale orchestrée}{64}{subsection.2.1.13}%
+\contentsline {subsection}{\numberline {2.1.14}La révolution pédagogique et la résistance des corps}{64}{subsection.2.1.14}%
+\contentsline {subsection}{\numberline {2.1.15}L'imposition de la méthode directe}{64}{subsection.2.1.15}%
+\contentsline {subsection}{\numberline {2.1.16}Le malaise des professeurs de langues}{64}{subsection.2.1.16}%
+\contentsline {subsection}{\numberline {2.1.17}André chervel et l'histoire des disciplines}{65}{subsection.2.1.17}%
+\contentsline {subsection}{\numberline {2.1.18}La section a (latin-grec) : bastion sociologique et excellence bourgeoise}{65}{subsection.2.1.18}%
+\contentsline {subsection}{\numberline {2.1.19}La stratégie de la distinction (analyse bourdieusienne)}{65}{subsection.2.1.19}%
+\contentsline {subsection}{\numberline {2.1.20}La hiérarchie réelle des sections}{66}{subsection.2.1.20}%
+\contentsline {subsection}{\numberline {2.1.21}Stéréotypes et stigmatisation : le mythe de l'« épicier »}{66}{subsection.2.1.21}%
+\contentsline {subsection}{\numberline {2.1.22}Le paradoxe de la réussite bourgeoise}{66}{subsection.2.1.22}%
+\contentsline {subsection}{\numberline {2.1.23}L'épilogue : de la réforme bérard à la revanche des sciences}{67}{subsection.2.1.23}%
+\contentsline {subsection}{\numberline {2.1.24}La contre-réforme de 1923 : le triomphe éphémère des « ultras »}{67}{subsection.2.1.24}%
+\contentsline {subsection}{\numberline {2.1.25}Le retour au statu quo et la mutation vers les mathématiques}{67}{subsection.2.1.25}%
+\contentsline {section}{\numberline {2.2}Le refus du "Direct" : Quand le grec refuse l'oralité}{68}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Le contexte de la réforme : « coup d'état pédagogique » ou nécessité vitale?}{69}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}La méthode directe : une rupture épistémologique}{70}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}La résistance du grec : le silence de la section a}{71}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}L'argument ontologique : la nature de la « langue morte »}{71}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.5}Le problème de la prononciation et la « question grecque »}{71}{subsection.2.2.5}%
+\contentsline {subsection}{\numberline {2.2.6}La « gymnastique de l'esprit » contre le réflexe conditionné}{72}{subsection.2.2.6}%
+\contentsline {subsection}{\numberline {2.2.7}Le « gaspillage ostentatoire » et la gratuité du savoir}{73}{subsection.2.2.7}%
+\contentsline {subsection}{\numberline {2.2.8}La barrière du thème et de la version}{73}{subsection.2.2.8}%
+\contentsline {subsection}{\numberline {2.2.9}La stratégie de défense des humanités contre la « masse »}{73}{subsection.2.2.9}%
+\contentsline {subsection}{\numberline {2.2.10}L'anglais et l'allemand comme contre-modèles repoussoirs}{74}{subsection.2.2.10}%
+\contentsline {subsection}{\numberline {2.2.11}La « crise du français » : l'argument ultime}{74}{subsection.2.2.11}%
+\contentsline {subsection}{\numberline {2.2.12}La réforme bérard de 1923 : le triomphe de la distinction}{75}{subsection.2.2.12}%
+\contentsline {subsection}{\numberline {2.2.13}L'exception française? comparaison avec l'allemagne et l'angleterre}{75}{subsection.2.2.13}%
+\contentsline {subsection}{\numberline {2.2.14}L'héritage du refus : un siècle de « grec mort »}{76}{subsection.2.2.14}%
+\contentsline {section}{\numberline {2.3}L'enseignement comme rituel social : Le grec comme instrument de classement}{76}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}La sociologie du privilège : de l'héritage culturel à l'idéologie du don}{78}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}L'illusion de la neutralité scolaire et la réalité statistique}{78}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Le grec ancien comme capital culturel objectivé}{79}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}Le mécanisme de la méconnaissance}{79}{subsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.3.5}Archéologie d'une discipline : de la lecture au classement}{79}{subsection.2.3.5}%
+\contentsline {subsection}{\numberline {2.3.6}L'empire du signe : le latin et le grec comme valeurs refuges}{79}{subsection.2.3.6}%
+\contentsline {subsection}{\numberline {2.3.7}La mutation des exercices : l'hégémonie de la version}{80}{subsection.2.3.7}%
+\contentsline {subsection}{\numberline {2.3.8}L'abandon de la lecture cursive}{81}{subsection.2.3.8}%
+\contentsline {subsection}{\numberline {2.3.9}La politique de la difficulté : les guerres scolaires (1902-1923)}{81}{subsection.2.3.9}%
+\contentsline {subsection}{\numberline {2.3.10}Le traumatisme de 1902 et la "crise du français"}{81}{subsection.2.3.10}%
+\contentsline {subsection}{\numberline {2.3.11}La controverse de la méthode directe : le refus de la facilité}{82}{subsection.2.3.11}%
+\contentsline {subsection}{\numberline {2.3.12}La restauration de 1923 : le "décret bérard"}{82}{subsection.2.3.12}%
+\contentsline {subsection}{\numberline {2.3.13}Le rituel de la "botte" : mécanique de la sélection par la grammaire}{83}{subsection.2.3.13}%
+\contentsline {subsection}{\numberline {2.3.14}La hiérarchie des fautes et les "points négatifs"}{83}{subsection.2.3.14}%
+\contentsline {subsection}{\numberline {2.3.15}Les exceptions comme pièges à "bûcheurs"}{83}{subsection.2.3.15}%
+\contentsline {subsection}{\numberline {2.3.16}Le concours comme rite d'institution}{84}{subsection.2.3.16}%
+\contentsline {subsection}{\numberline {2.3.17}La métamorphose du rituel : du grec aux mathématiques}{84}{subsection.2.3.17}%
+\contentsline {subsection}{\numberline {2.3.18}Le déclin des humanités et la relève scientifique}{84}{subsection.2.3.18}%
+\contentsline {subsection}{\numberline {2.3.19}Les mathématiques comme nouveau latin}{84}{subsection.2.3.19}%
+\contentsline {chapter}{\numberline {3}L'Agonie institutionnelle et la "rémanence" pédagogique (1968-2024)}{87}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Le choc de la démocratisation (1975) : Le grec devient une option-refuge}{87}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Genèse et tensions du collège unique : du « choc » haby à la démocratisation ségrégative}{88}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}L'héritage de la segmentation : l'école d'avant 1975}{88}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}La rupture haby : l'idéal de l'indifférenciation et ses conséquences}{89}{subsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.1.4}Le concept de « démocratisation ségrégative »}{89}{subsection.3.1.4}%
+\contentsline {subsection}{\numberline {3.1.5}L'ingénierie de l'évitement : la carte scolaire et le « parcours scolaire particulier »}{90}{subsection.3.1.5}%
+\contentsline {subsection}{\numberline {3.1.6}La carte scolaire : un carcan administratif devenu enjeu social}{90}{subsection.3.1.6}%
+\contentsline {subsection}{\numberline {3.1.7}Le grec ancien comme motif légitime de dérogation}{91}{subsection.3.1.7}%
+\contentsline {subsection}{\numberline {3.1.8}L'assouplissement de la carte scolaire : accélérateur de la concurrence}{91}{subsection.3.1.8}%
+\contentsline {subsection}{\numberline {3.1.9}Sociologie de la distinction : pourquoi le grec et pas le latin?}{92}{subsection.3.1.9}%
+\contentsline {subsection}{\numberline {3.1.10}Latin vs grec : distinction de masse et distinction d'élite}{92}{subsection.3.1.10}%
+\contentsline {subsection}{\numberline {3.1.11}La valeur symbolique de l'inutile : bourdieu et les humanités}{92}{subsection.3.1.11}%
+\contentsline {subsection}{\numberline {3.1.12}Stratégies familiales et rôle des mères}{93}{subsection.3.1.12}%
+\contentsline {subsection}{\numberline {3.1.13}La fabrication des « classes de niveau » (ségrégation interne)}{93}{subsection.3.1.13}%
+\contentsline {subsection}{\numberline {3.1.14}La gestion de l'hétérogénéité par les chefs d'établissement}{93}{subsection.3.1.14}%
+\contentsline {subsection}{\numberline {3.1.15}Le grec ancien : une garantie supérieure au latin}{94}{subsection.3.1.15}%
+\contentsline {subsection}{\numberline {3.1.16}Évolution statistique et ruptures historiques (1975-2024)}{94}{subsection.3.1.16}%
+\contentsline {subsection}{\numberline {3.1.17}Analyse des effectifs : l'érosion continue}{94}{subsection.3.1.17}%
+\contentsline {subsection}{\numberline {3.1.18}La rupture de 1996 : le report en 3ème}{94}{subsection.3.1.18}%
+\contentsline {subsection}{\numberline {3.1.19}Les réformes récentes : de l'epi au « choc des savoirs »}{95}{subsection.3.1.19}%
+\contentsline {subsection}{\numberline {3.1.20}La barrière pédagogique : méthodes et reproduction}{96}{subsection.3.1.20}%
+\contentsline {subsection}{\numberline {3.1.21}La méthode « grammaire-traduction » comme filtre}{96}{subsection.3.1.21}%
+\contentsline {subsection}{\numberline {3.1.22}Culturalisation vs rigueur linguistique}{96}{subsection.3.1.22}%
+\contentsline {subsection}{\numberline {3.1.23}Conclusion}{96}{subsection.3.1.23}%
+\contentsline {section}{\numberline {3.2}La fausse solution des LCA (2016) : Dilution de la langue dans la "culture"}{97}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}De la discipline canonique à l'enseignement de complément : une dégradation statutaire systémique}{98}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}La mécanique des horaires « homéopathiques » et l'effondrement du temps d'exposition}{98}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Le piège sémantique et juridique : « dans la limite de »}{99}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}La guerre des moyens : la marge d'autonomie comme champ de bataille structurel}{100}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.5}Le mécanisme de concurrence interne et de culpabilisation}{100}{subsection.3.2.5}%
+\contentsline {subsection}{\numberline {3.2.6}L'iniquité territoriale et l'effet de taille}{100}{subsection.3.2.6}%
+\contentsline {subsection}{\numberline {3.2.7}L'epi lca : une coquille vide et un leurre pédagogique?}{101}{subsection.3.2.7}%
+\contentsline {subsection}{\numberline {3.2.8}Bilan quantitatif : une stabilisation en trompe-l'œil et une érosion réelle}{101}{subsection.3.2.8}%
+\contentsline {subsection}{\numberline {3.2.9}Analyse critique des programmes du cycle 4 (2016) : le triomphe du « culturel »}{102}{subsection.3.2.9}%
+\contentsline {subsection}{\numberline {3.2.10}La compétence culturelle comme alibi de la désubstantialisation linguistique}{102}{subsection.3.2.10}%
+\contentsline {subsection}{\numberline {3.2.11}La disparition de la traduction rigoureuse et de la progression linéaire}{103}{subsection.3.2.11}%
+\contentsline {subsection}{\numberline {3.2.12}L'illusion de l'interdisciplinarité et la perte d'autonomie épistémologique}{103}{subsection.3.2.12}%
+\contentsline {subsection}{\numberline {3.2.13}Critique des manuels de la réforme (2016-2017) : le syndrome du « magazine »}{104}{subsection.3.2.13}%
+\contentsline {subsection}{\numberline {3.2.14}Le paradoxe temporel : enseigner comme au xixe siècle avec les horaires du xxie}{105}{subsection.3.2.14}%
+\contentsline {subsection}{\numberline {3.2.15}La surcharge cognitive : analyse à la lumière des théories de sweller et tricot}{105}{subsection.3.2.15}%
+\contentsline {subsection}{\numberline {3.2.16}Le coût cognitif intrinsèque du décodage latin}{105}{subsection.3.2.16}%
+\contentsline {subsection}{\numberline {3.2.17}La « double peine » cognitive de la réforme}{106}{subsection.3.2.17}%
+\contentsline {subsection}{\numberline {3.2.18}L'échec de la transition vers les méthodes actives : l'exemple du projet ellass}{107}{subsection.3.2.18}%
+\contentsline {subsection}{\numberline {3.2.19}Les promesses de l'oralisation et de la paraphrase progressive}{107}{subsection.3.2.19}%
+\contentsline {subsection}{\numberline {3.2.20}L'incompatibilité structurelle avec les horaires de 2016}{107}{subsection.3.2.20}%
+\contentsline {subsection}{\numberline {3.2.21}L'illusion du redressement (2017-2022) : le temps de la survie précaire}{108}{subsection.3.2.21}%
+\contentsline {subsection}{\numberline {3.2.22}Le coup de grâce : le « choc des savoirs » (2024)}{108}{subsection.3.2.22}%
+\contentsline {subsection}{\numberline {3.2.23}Les groupes de niveaux comme prédateurs absolus de moyens}{108}{subsection.3.2.23}%
+\contentsline {subsection}{\numberline {3.2.24}Une discipline en voie d'extinction rapide?}{109}{subsection.3.2.24}%
+\contentsline {subsection}{\numberline {3.2.25}Bilan qualitatif final : quel latin pour quels élèves en 2026?}{109}{subsection.3.2.25}%
+\contentsline {subsection}{\numberline {3.2.26}Tableaux de synthèse des données}{110}{subsection.3.2.26}%
+\contentsline {subsection}{\numberline {3.2.27}Tableau 1 : évolution comparée des horaires officiels de latin (cycle 4\)}{110}{subsection.3.2.27}%
+\contentsline {subsection}{\numberline {3.2.28}Tableau 2 : comparaison des approches didactiques et impact cognitif}{110}{subsection.3.2.28}%
+\contentsline {section}{\numberline {3.3}L'impasse actuelle : Un enseignement fossile sans moyens mais avec prétentions}{110}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}La dépossession des moyens : chronique d'une érosion programmée}{112}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}L'effondrement des horaires et la concurrence interne (2016-2024)}{112}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}La réforme du lycée et la marginalisation de la spécialité}{113}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}La pénurie d'enseignants : le cercle vicieux}{113}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.5}La persistance des prétentions : une ambition déconnectée}{114}{subsection.3.3.5}%
+\contentsline {subsection}{\numberline {3.3.6}Des programmes de lycée d'une exigence paradoxale}{115}{subsection.3.3.6}%
+\contentsline {subsection}{\numberline {3.3.7}Le déni de réalité des concours de recrutement}{115}{subsection.3.3.7}%
+\contentsline {subsection}{\numberline {3.3.8}« analyser platon » : l'emblème de l'ambition mal placée}{116}{subsection.3.3.8}%
+\contentsline {subsection}{\numberline {3.3.9}La mécanique du simulacre : « sans savoir le lire »}{116}{subsection.3.3.9}%
+\contentsline {subsection}{\numberline {3.3.10}Du déchiffrage au « simulacre de lecture »}{116}{subsection.3.3.10}%
+\contentsline {subsection}{\numberline {3.3.11}L'institutionnalisation de la béquille : le texte bilingue}{117}{subsection.3.3.11}%
+\contentsline {subsection}{\numberline {3.3.12}La « civilisation » comme refuge et cache-misère}{117}{subsection.3.3.12}%
+\contentsline {subsection}{\numberline {3.3.13}L'exemple paradigmatique de platon : le sommet de l'illusion}{118}{subsection.3.3.13}%
+\contentsline {subsection}{\numberline {3.3.14}L'inaccessibilité linguistique de platon}{118}{subsection.3.3.14}%
+\contentsline {subsection}{\numberline {3.3.15}L'analyse du \textit {phédon} : une étude de cas}{118}{subsection.3.3.15}%
+\contentsline {subsection}{\numberline {3.3.16}Conséquences et perspectives : sortir du fossile?}{119}{subsection.3.3.16}%
+\contentsline {subsection}{\numberline {3.3.17}La sélection par l'échec et l'élitisme social}{119}{subsection.3.3.17}%
+\contentsline {subsection}{\numberline {3.3.18}Vers une refondation didactique ou une mort définitive?}{119}{subsection.3.3.18}%
+\contentsline {subsection}{\numberline {3.3.19}Conclusion}{120}{subsection.3.3.19}%
+\contentsline {part}{II\hspace {1em}La critique scientifique : Pourquoi le cerveau ne peut pas apprendre comme ça}{121}{part.2}%
+\contentsline {chapter}{\numberline {4}Critique du "Muscle Mental" : L'illusion du Transfert Cognitif}{122}{chapter.4}%
+\contentsline {section}{\numberline {4.1}La fin de la Psychologie des Facultés : Le cerveau n'est pas un muscle généraliste}{122}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Archéologie de la psychologie des facultés : genèse et apogée d'une doctrine éducative}{123}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Les fondements philosophiques et la phrénologie}{123}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}La rhétorique de la "gymnastique mentale" au xixe siècle}{123}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.1.4}La rupture empirique : thorndike, woodworth et l'effondrement de la discipline formelle}{124}{subsection.4.1.4}%
+\contentsline {subsection}{\numberline {4.1.5}L'expérience fondatrice de 1901 : "the influence of improvement..."}{125}{subsection.4.1.5}%
+\contentsline {subsection}{\numberline {4.1.6}La théorie des éléments identiques (\textit {identical elements theory})}{126}{subsection.4.1.6}%
+\contentsline {subsection}{\numberline {4.1.7}Confirmation par l'expérimentation massive (1924)}{126}{subsection.4.1.7}%
+\contentsline {subsection}{\numberline {4.1.8}Le mythe de la "gymnastique mentale" à l'épreuve de la science contemporaine (le cas du latin)}{127}{subsection.4.1.8}%
+\contentsline {subsection}{\numberline {4.1.9}La persistance du "latin advantage" et l'argument du transfert}{127}{subsection.4.1.9}%
+\contentsline {subsection}{\numberline {4.1.10}L'hypothèse de la présélection (\textit {preselectivity}) : les preuves de 2024-2025}{127}{subsection.4.1.10}%
+\contentsline {subsection}{\numberline {4.1.11}Transfert vers les mathématiques et la logique}{128}{subsection.4.1.11}%
+\contentsline {subsection}{\numberline {4.1.12}Neurosciences cognitives : modularité, connectivité et coût métabolique}{128}{subsection.4.1.12}%
+\contentsline {subsection}{\numberline {4.1.13}Le cerveau : organe égoïste et coûteux (\textit {the selfish brain theory})}{129}{subsection.4.1.13}%
+\contentsline {subsection}{\numberline {4.1.14}Modularité et spécificité de domaine}{129}{subsection.4.1.14}%
+\contentsline {subsection}{\numberline {4.1.15}Le modèle déclaratif/procédural}{130}{subsection.4.1.15}%
+\contentsline {subsection}{\numberline {4.1.16}La question du transfert d'apprentissage : taxonomie de l'échec}{130}{subsection.4.1.16}%
+\contentsline {subsection}{\numberline {4.1.17}Taxonomie du transfert : barnett \& ceci (2002)}{131}{subsection.4.1.17}%
+\contentsline {subsection}{\numberline {4.1.18}L'échec de l'entraînement des fonctions exécutives et du "brain training"}{131}{subsection.4.1.18}%
+\contentsline {subsection}{\numberline {4.1.19}La théorie de la charge cognitive et l'architecture de la mémoire : une alternative au modèle musculaire}{132}{subsection.4.1.19}%
+\contentsline {subsection}{\numberline {4.1.20}Limites biologiques de la mémoire de travail}{132}{subsection.4.1.20}%
+\contentsline {subsection}{\numberline {4.1.21}L'expertise comme gestion de la charge via les schémas}{132}{subsection.4.1.21}%
+\contentsline {subsection}{\numberline {4.1.22}Implications pour la traduction et l'acquisition des langues}{133}{subsection.4.1.22}%
+\contentsline {subsection}{\numberline {4.1.23}Traduction n'est pas lecture}{133}{subsection.4.1.23}%
+\contentsline {subsection}{\numberline {4.1.24}La critique de la méthode grammaire-traduction}{133}{subsection.4.1.24}%
+\contentsline {subsection}{\numberline {4.1.25}Conclusion : la fin d'une époque}{133}{subsection.4.1.25}%
+\contentsline {section}{\numberline {4.2}L'absence de transfert automatique : La critique de la justification utilitariste}{134}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}De la psychologie des facultés à la révolution de thorndike (1901)}{135}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}La science cognitive moderne : la distinction transfert proche vs transfert lointain}{136}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}La spécificité de domaine (\textit {domain specificity}) et l'architecture cognitive}{137}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}L'étude de nuremberg (haag \& stern, 2003\) : une réfutation contrôlée}{138}{subsection.4.2.4}%
+\contentsline {subsection}{\numberline {4.2.5}Les travaux longitudinaux d'alexandra vereeck : la preuve par la sélection}{139}{subsection.4.2.5}%
+\contentsline {subsection}{\numberline {4.2.6}Le facteur socio-économique et l'habitus : la variable cachée}{139}{subsection.4.2.6}%
+\contentsline {subsection}{\numberline {4.2.7}Tableau 1 : synthèse des études empiriques sur le transfert cognitif du latin/grec}{140}{subsection.4.2.7}%
+\contentsline {subsection}{\numberline {4.2.8}Nature de la logique : formelle vs naturelle}{140}{subsection.4.2.8}%
+\contentsline {subsection}{\numberline {4.2.9}La théorie de la charge cognitive (\textit {cognitive load theory}) et l'échec de la traduction}{141}{subsection.4.2.9}%
+\contentsline {subsection}{\numberline {4.2.10}L'impasse pédagogique : de la grammaire-traduction aux méthodes vivantes}{142}{subsection.4.2.10}%
+\contentsline {subsection}{\numberline {4.2.11}La crise de 1880 et le « sauvetage » des humanités par la gymnastique}{143}{subsection.4.2.11}%
+\contentsline {subsection}{\numberline {4.2.12}La distinction et la prophétie autoréalisatrice (bourdieu)}{143}{subsection.4.2.12}%
+\contentsline {subsection}{\numberline {4.2.13}L'excellence pour tous : une nouvelle rhétorique pour un vieux mécanisme?}{144}{subsection.4.2.13}%
+\contentsline {section}{\numberline {4.3}La Surcharge Cognitive (Sweller) : Analyse + dictionnaire + traduction = blocage}{145}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}L'architecture cognitive humaine et ses contraintes : le cadre de sweller}{146}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}La mémoire de travail : le goulot d'étranglement du traitement de l'information}{146}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}La typologie de la charge cognitive selon sweller}{147}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.4}L'interactivité des éléments : pourquoi le latin est "lourd"}{147}{subsection.4.3.4}%
+\contentsline {subsection}{\numberline {4.3.5}Analyse de la composante 1 : l'analyse grammaticale comme tâche concurrente et perturbatrice}{149}{subsection.4.3.5}%
+\contentsline {subsection}{\numberline {4.3.6}Le coût cognitif du « parsing » conscient}{149}{subsection.4.3.6}%
+\contentsline {subsection}{\numberline {4.3.7}L'hypothèse du moniteur de krashen et la lenteur de traitement}{149}{subsection.4.3.7}%
+\contentsline {subsection}{\numberline {4.3.8}Neurobiologie du traitement grammatical}{150}{subsection.4.3.8}%
+\contentsline {subsection}{\numberline {4.3.9}L'erreur de l'enseignement explicite isolé}{150}{subsection.4.3.9}%
+\contentsline {subsection}{\numberline {4.3.10}Analyse de la composante 2 : le dictionnaire et la violence de l'effet d'attention partagée}{150}{subsection.4.3.10}%
+\contentsline {subsection}{\numberline {4.3.11}Le mécanisme de l'attention partagée}{151}{subsection.4.3.11}%
+\contentsline {subsection}{\numberline {4.3.12}Preuves empiriques de l'effet négatif du dictionnaire}{151}{subsection.4.3.12}%
+\contentsline {subsection}{\numberline {4.3.13}Le seuil lexical de 95-98\% : pourquoi le dictionnaire est une impasse}{151}{subsection.4.3.13}%
+\contentsline {subsection}{\numberline {4.3.14}Analyse de la composante 3 : « traduire » ou le coût du transcodage mental}{152}{subsection.4.3.14}%
+\contentsline {subsection}{\numberline {4.3.15}Distinction entre lecture et traduction}{152}{subsection.4.3.15}%
+\contentsline {subsection}{\numberline {4.3.16}Le fardeau cognitif du transcodage}{152}{subsection.4.3.16}%
+\contentsline {subsection}{\numberline {4.3.17}L'inefficacité de la traduction pour l'acquisition}{153}{subsection.4.3.17}%
+\contentsline {subsection}{\numberline {4.3.18}Synthèse : la tempête parfaite de la surcharge cognitive}{153}{subsection.4.3.18}%
+\contentsline {subsection}{\numberline {4.3.19}Modélisation de la surcharge}{153}{subsection.4.3.19}%
+\contentsline {subsection}{\numberline {4.3.20}L'empêchement de l'accès au sens}{154}{subsection.4.3.20}%
+\contentsline {subsection}{\numberline {4.3.21}Vers une résolution de l'équation : alternatives pédagogiques fondées sur la preuve}{154}{subsection.4.3.21}%
+\contentsline {subsection}{\numberline {4.3.22}Éliminer l'effet d'attention partagée : textes glossés et intégrés}{154}{subsection.4.3.22}%
+\contentsline {subsection}{\numberline {4.3.23}Réduire la charge grammaticale : l'approche inductive et l'input compréhensible}{155}{subsection.4.3.23}%
+\contentsline {subsection}{\numberline {4.3.24}Remplacer la traduction par la compréhension directe : les méthodes actives}{155}{subsection.4.3.24}%
+\contentsline {subsection}{\numberline {4.3.25}Tableau comparatif des charges cognitives}{155}{subsection.4.3.25}%
+\contentsline {subsection}{\numberline {4.3.26}Conclusion}{155}{subsection.4.3.26}%
+\contentsline {chapter}{\numberline {5}Critique du "Tout Grammaire" : L'erreur neurobiologique}{157}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Mémoire Déclarative vs Procédural : Le modèle DP d'Ullman}{157}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Les fondements neurobiologiques du modèle déclaratif/procédural}{158}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}La dichotomie lexique / grammaire et ses substrats neuronaux}{158}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.3}Le système de mémoire déclarative : le substrat du lexique}{158}{subsection.5.1.3}%
+\contentsline {subsection}{\numberline {5.1.4}Le système de mémoire procédurale : le moteur de la grammaire}{159}{subsection.5.1.4}%
+\contentsline {subsection}{\numberline {5.1.5}Évolution et mises à jour du modèle (1997-2020)}{160}{subsection.5.1.5}%
+\contentsline {subsection}{\numberline {5.1.6}De la dissociation stricte à la co-optation redondante}{160}{subsection.5.1.6}%
+\contentsline {subsection}{\numberline {5.1.7}Facteurs modulant la dépendance aux systèmes}{161}{subsection.5.1.7}%
+\contentsline {subsection}{\numberline {5.1.8}Le modèle dp appliqué à l'acquisition des langues secondes (sla)}{161}{subsection.5.1.8}%
+\contentsline {subsection}{\numberline {5.1.9}La trajectoire développementale : du déclaratif au procédural}{161}{subsection.5.1.9}%
+\contentsline {subsection}{\numberline {5.1.10}Le stade initial : la dépendance déclarative}{162}{subsection.5.1.10}%
+\contentsline {subsection}{\numberline {5.1.11}La possibilité de procéduralisation}{162}{subsection.5.1.11}%
+\contentsline {subsection}{\numberline {5.1.12}L'effet de bascule ("see-saw effect") : compétition entre systèmes}{162}{subsection.5.1.12}%
+\contentsline {subsection}{\numberline {5.1.13}Mécanisme de compétition}{163}{subsection.5.1.13}%
+\contentsline {subsection}{\numberline {5.1.14}Implications didactiques : le paradoxe de l'instruction explicite}{163}{subsection.5.1.14}%
+\contentsline {subsection}{\numberline {5.1.15}Données de neuroimagerie en sla}{163}{subsection.5.1.15}%
+\contentsline {subsection}{\numberline {5.1.16}Débats théoriques : modèle dp vs skill acquisition theory (sat)}{164}{subsection.5.1.16}%
+\contentsline {subsection}{\numberline {5.1.17}La skill acquisition theory (sat) : la vision linéaire}{164}{subsection.5.1.17}%
+\contentsline {subsection}{\numberline {5.1.18}La critique du modèle dp : systèmes distincts, routes parallèles}{164}{subsection.5.1.18}%
+\contentsline {subsection}{\numberline {5.1.19}L'effet de blocage (blocking effect)}{164}{subsection.5.1.19}%
+\contentsline {subsection}{\numberline {5.1.20}La charge cognitive (sweller) et le goulot d'étranglement déclaratif}{165}{subsection.5.1.20}%
+\contentsline {subsection}{\numberline {5.1.21}Application spécifique : vers une didactique du grec ancien neuro-informée}{165}{subsection.5.1.21}%
+\contentsline {subsection}{\numberline {5.1.22}La spécificité morphologique du grec et la défaillance déclarative}{165}{subsection.5.1.22}%
+\contentsline {subsection}{\numberline {5.1.23}Critique neurocognitive de la méthode grammaire-traduction}{166}{subsection.5.1.23}%
+\contentsline {subsection}{\numberline {5.1.24}Pistes pour une didactique hybride}{166}{subsection.5.1.24}%
+\contentsline {subsection}{\numberline {5.1.25}Maximiser l'input et la fréquence (pattern drills)}{166}{subsection.5.1.25}%
+\contentsline {subsection}{\numberline {5.1.26}L'oralisation comme levier procédural}{167}{subsection.5.1.26}%
+\contentsline {subsection}{\numberline {5.1.27}La gestion stratégique de l'explicite}{167}{subsection.5.1.27}%
+\contentsline {subsection}{\numberline {5.1.28}Synthèse des données et tableaux comparatifs}{167}{subsection.5.1.28}%
+\contentsline {subsection}{\numberline {5.1.29}Tableau 1 : comparaison fonctionnelle et anatomique}{167}{subsection.5.1.29}%
+\contentsline {subsection}{\numberline {5.1.30}Tableau 2 : implications pour l'apprentissage du grec ancien}{167}{subsection.5.1.30}%
+\contentsline {section}{\numberline {5.2}L'impasse de l'enseignement explicite : Saturation déclarative, négligence procédurale}{169}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}La mémoire déclarative : le siège du lexique et des faits}{170}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Caractéristiques fonctionnelles et cognitives}{170}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Substrats neuroanatomiques}{171}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.2.4}Le rôle dans l'apprentissage l2}{171}{subsection.5.2.4}%
+\contentsline {subsection}{\numberline {5.2.5}La mémoire procédurale : le moteur de la grammaire et des automatismes}{171}{subsection.5.2.5}%
+\contentsline {subsection}{\numberline {5.2.6}Caractéristiques fonctionnelles et cognitives}{171}{subsection.5.2.6}%
+\contentsline {subsection}{\numberline {5.2.7}Substrats neuroanatomiques}{172}{subsection.5.2.7}%
+\contentsline {subsection}{\numberline {5.2.8}Tableau comparatif des systèmes de mémoire dans le langage}{172}{subsection.5.2.8}%
+\contentsline {subsection}{\numberline {5.2.9}Mécanismes neurobiologiques de l'inhibition}{173}{subsection.5.2.9}%
+\contentsline {subsection}{\numberline {5.2.10}L'enseignement explicite comme facteur inhibiteur}{174}{subsection.5.2.10}%
+\contentsline {subsection}{\numberline {5.2.11}Preuves empiriques dans l'acquisition l2}{174}{subsection.5.2.11}%
+\contentsline {subsection}{\numberline {5.2.12}L'architecture cognitive et le goulot d'étranglement}{175}{subsection.5.2.12}%
+\contentsline {subsection}{\numberline {5.2.13}L'anatomie de la saturation en classe de langue}{175}{subsection.5.2.13}%
+\contentsline {subsection}{\numberline {5.2.14}Le coût du "monitor" et du traitement conscient}{175}{subsection.5.2.14}%
+\contentsline {subsection}{\numberline {5.2.15}L'effet de l'attention partagée (split-attention effect)}{176}{subsection.5.2.15}%
+\contentsline {subsection}{\numberline {5.2.16}L'effet de redondance}{176}{subsection.5.2.16}%
+\contentsline {subsection}{\numberline {5.2.17}Le seuil de vocabulaire et l'effondrement de la compréhension}{176}{subsection.5.2.17}%
+\contentsline {subsection}{\numberline {5.2.18}Le modèle act-r et l'exigence de pratique massive}{177}{subsection.5.2.18}%
+\contentsline {subsection}{\numberline {5.2.19}Le "fossé de la pratique" (the practice gap)}{177}{subsection.5.2.19}%
+\contentsline {subsection}{\numberline {5.2.20}Le débat de l'interface : krashen vs dekeyser}{178}{subsection.5.2.20}%
+\contentsline {subsection}{\numberline {5.2.21}L'échec de la méthode grammaire-traduction (gtm)}{178}{subsection.5.2.21}%
+\contentsline {subsection}{\numberline {5.2.22}Tableau récapitulatif : les mécanismes de l'impasse}{179}{subsection.5.2.22}%
+\contentsline {subsection}{\numberline {5.2.23}Réduire la charge déclarative}{180}{subsection.5.2.23}%
+\contentsline {subsection}{\numberline {5.2.24}Priorité à l'input compréhensible}{180}{subsection.5.2.24}%
+\contentsline {subsection}{\numberline {5.2.25}Automatisation par la pratique communicative}{180}{subsection.5.2.25}%
+\contentsline {section}{\numberline {5.3}Le "Monitor" de Krashen : La grammaire consciente ne produit pas la fluidité}{180}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}L'architecture théorique : l'hypothèse du monitor et la dichotomie acquisition/apprentissage}{181}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}La distinction fondamentale : acquisition vs apprentissage}{181}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.3}Le rôle restreint du monitor}{182}{subsection.5.3.3}%
+\contentsline {subsection}{\numberline {5.3.4}Les trois conditions de l'activation du monitor}{182}{subsection.5.3.4}%
+\contentsline {subsection}{\numberline {5.3.5}Fondements neurocognitifs : le modèle déclaratif/procédural}{183}{subsection.5.3.5}%
+\contentsline {subsection}{\numberline {5.3.6}La dualité des systèmes de mémoire}{184}{subsection.5.3.6}%
+\contentsline {subsection}{\numberline {5.3.7}La latence différentielle et les temps de réaction}{184}{subsection.5.3.7}%
+\contentsline {subsection}{\numberline {5.3.8}L'effet de balancier ("see-saw effect") : compétition neuronale}{185}{subsection.5.3.8}%
+\contentsline {subsection}{\numberline {5.3.9}La surcharge cognitive : pourquoi le grec ancien résiste au monitor}{185}{subsection.5.3.9}%
+\contentsline {subsection}{\numberline {5.3.10}La complexité morphologique et la règle du "know the rule"}{185}{subsection.5.3.10}%
+\contentsline {subsection}{\numberline {5.3.11}L'illusion de la maîtrise par la gtm}{186}{subsection.5.3.11}%
+\contentsline {subsection}{\numberline {5.3.12}Interférence et charge de la mémoire de travail}{186}{subsection.5.3.12}%
+\contentsline {subsection}{\numberline {5.3.13}Fluidité de lecture : seuils et limitations du décryptage}{187}{subsection.5.3.13}%
+\contentsline {subsection}{\numberline {5.3.14}La vitesse de lecture comme indicateur de processus}{187}{subsection.5.3.14}%
+\contentsline {subsection}{\numberline {5.3.15}Le seuil lexical de 98\% et l'impuissance du monitor}{187}{subsection.5.3.15}%
+\contentsline {subsection}{\numberline {5.3.16}L'inhibition de l'intuition probabiliste}{188}{subsection.5.3.16}%
+\contentsline {subsection}{\numberline {5.3.17}Implications pédagogiques : vers une approche post-monitor}{188}{subsection.5.3.17}%
+\contentsline {subsection}{\numberline {5.3.18}Repenser le rôle de la grammaire}{188}{subsection.5.3.18}%
+\contentsline {subsection}{\numberline {5.3.19}Priorité à l'input compréhensible}{189}{subsection.5.3.19}%
+\contentsline {subsection}{\numberline {5.3.20}Conclusion}{189}{subsection.5.3.20}%
+\contentsline {chapter}{\numberline {6}Critique du "Déchiffrage" : Psycholinguistique de la lecture}{190}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Le mythe de la "Version" comme lecture : Traduire n'est pas lire}{190}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}De l'imprégnation rhétorique à la « gymnastique mentale »}{191}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}La sanctuarisation de l'exercice de version}{191}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.1.3}Le constat de faillite : le rapport charvet (2018)}{192}{subsection.6.1.3}%
+\contentsline {subsection}{\numberline {6.1.4}La théorie de l'automaticité (laberge \& samuels)}{192}{subsection.6.1.4}%
+\contentsline {subsection}{\numberline {6.1.5}La fluidité de lecture (\textit {reading fluency}) et le seuil lexical}{193}{subsection.6.1.5}%
+\contentsline {subsection}{\numberline {6.1.6}Données oculométriques : la signature visuelle de la lecture}{193}{subsection.6.1.6}%
+\contentsline {subsection}{\numberline {6.1.7}La traduction comme rupture stratégique}{194}{subsection.6.1.7}%
+\contentsline {subsection}{\numberline {6.1.8}La théorie de la charge cognitive et l'effet d'attention divisée}{194}{subsection.6.1.8}%
+\contentsline {subsection}{\numberline {6.1.9}Le piège de la traduction mentale}{195}{subsection.6.1.9}%
+\contentsline {subsection}{\numberline {6.1.10}Le modèle dp (declarative/procedural) d'ullman}{196}{subsection.6.1.10}%
+\contentsline {subsection}{\numberline {6.1.11}1\. la mémoire déclarative (système temporal)}{196}{subsection.6.1.11}%
+\contentsline {subsection}{\numberline {6.1.12}2\. la mémoire procédurale (système fronto-striatal)}{196}{subsection.6.1.12}%
+\contentsline {subsection}{\numberline {6.1.13}Le drame de la non-procéduralisation}{196}{subsection.6.1.13}%
+\contentsline {subsection}{\numberline {6.1.14}L'hypothèse du « monitor » de krashen revisitée}{197}{subsection.6.1.14}%
+\contentsline {subsection}{\numberline {6.1.15}La lecture extensive (\textit {extensive reading})}{197}{subsection.6.1.15}%
+\contentsline {subsection}{\numberline {6.1.16}L'immersion et la méthode polis}{198}{subsection.6.1.16}%
+\contentsline {subsection}{\numberline {6.1.17}A. total physical response (tpr)}{198}{subsection.6.1.17}%
+\contentsline {subsection}{\numberline {6.1.18}B. living sequential expression (lse)}{198}{subsection.6.1.18}%
+\contentsline {subsection}{\numberline {6.1.19}Repenser la place de la version}{198}{subsection.6.1.19}%
+\contentsline {section}{\numberline {6.2}L'Input Compréhensible : Apprendre par le sens, pas par la forme}{199}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}L'architecture cognitive de l'acquisition : la primauté du sens}{200}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}L'hypothèse de l'input et la distinction acquisition/apprentissage}{200}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}La nature subconsciente de l'acquisition}{201}{subsection.6.2.3}%
+\contentsline {subsection}{\numberline {6.2.4}Les limites de l'apprentissage conscient (le moniteur)}{201}{subsection.6.2.4}%
+\contentsline {subsection}{\numberline {6.2.5}L'hypothèse de l'input (i+1)}{201}{subsection.6.2.5}%
+\contentsline {subsection}{\numberline {6.2.6}Le filtre affectif}{202}{subsection.6.2.6}%
+\contentsline {subsection}{\numberline {6.2.7}Le traitement de l'input (input processing) : la théorie de vanpatten}{202}{subsection.6.2.7}%
+\contentsline {subsection}{\numberline {6.2.8}Le principe de la primauté du sens (primacy of meaning principle)}{202}{subsection.6.2.8}%
+\contentsline {subsection}{\numberline {6.2.9}Le principe du premier nom (first noun principle)}{203}{subsection.6.2.9}%
+\contentsline {subsection}{\numberline {6.2.10}Focus on form vs. focus on forms : clarification conceptuelle}{204}{subsection.6.2.10}%
+\contentsline {subsection}{\numberline {6.2.11}Les bases neurobiologiques : mémoire déclarative et procédurale}{204}{subsection.6.2.11}%
+\contentsline {subsection}{\numberline {6.2.12}La dissociation des systèmes de mémoire}{204}{subsection.6.2.12}%
+\contentsline {subsection}{\numberline {6.2.13}La mémoire déclarative (le lexique)}{205}{subsection.6.2.13}%
+\contentsline {subsection}{\numberline {6.2.14}La mémoire procédurale (la grammaire mentale)}{205}{subsection.6.2.14}%
+\contentsline {subsection}{\numberline {6.2.15}L'effet de "bascule" (see-saw effect) et le blocage}{205}{subsection.6.2.15}%
+\contentsline {subsection}{\numberline {6.2.16}Compétition et inhibition}{205}{subsection.6.2.16}%
+\contentsline {subsection}{\numberline {6.2.17}Le phénomène de blocage (\textit {blocking})}{206}{subsection.6.2.17}%
+\contentsline {subsection}{\numberline {6.2.18}La procéduralisation par l'input}{206}{subsection.6.2.18}%
+\contentsline {subsection}{\numberline {6.2.19}La charge cognitive et les seuils lexicaux}{207}{subsection.6.2.19}%
+\contentsline {subsection}{\numberline {6.2.20}La théorie de la charge cognitive (sweller)}{207}{subsection.6.2.20}%
+\contentsline {subsection}{\numberline {6.2.21}L'effet d'attention divisée (split-attention effect)}{207}{subsection.6.2.21}%
+\contentsline {subsection}{\numberline {6.2.22}Le seuil critique de 98\% de couverture lexicale (hu \& nation)}{207}{subsection.6.2.22}%
+\contentsline {subsection}{\numberline {6.2.23}La dynamique des pourcentages}{208}{subsection.6.2.23}%
+\contentsline {subsection}{\numberline {6.2.24}L'erreur des "textes authentiques"}{208}{subsection.6.2.24}%
+\contentsline {subsection}{\numberline {6.2.25}Application pédagogique : vers une refondation du grec ancien}{208}{subsection.6.2.25}%
+\contentsline {subsection}{\numberline {6.2.26}La méthode polis et l'expression séquentielle vivante (lse)}{208}{subsection.6.2.26}%
+\contentsline {subsection}{\numberline {6.2.27}L'immersion et le tpr (total physical response)}{209}{subsection.6.2.27}%
+\contentsline {subsection}{\numberline {6.2.28}L'expression séquentielle vivante (living sequential expression \- lse)}{209}{subsection.6.2.28}%
+\contentsline {subsection}{\numberline {6.2.29}L'approche des "quatre fils" (the four strands) de paul nation}{210}{subsection.6.2.29}%
+\contentsline {subsection}{\numberline {6.2.30}Réponses aux critiques et débats}{210}{subsection.6.2.30}%
+\contentsline {subsection}{\numberline {6.2.31}La critique du "pidgin" et de l'imprécision}{211}{subsection.6.2.31}%
+\contentsline {subsection}{\numberline {6.2.32}La complexité morphologique spécifique du grec}{211}{subsection.6.2.32}%
+\contentsline {subsection}{\numberline {6.2.33}Le statut de "langue morte"}{211}{subsection.6.2.33}%
+\contentsline {subsection}{\numberline {6.2.34}Conclusion et synthèse des tableaux}{212}{subsection.6.2.34}%
+\contentsline {subsection}{\numberline {6.2.35}Tableaux récapitulatifs}{212}{subsection.6.2.35}%
+\contentsline {subsection}{\numberline {6.2.36}Tableau 1 : impact neurocognitif comparé des méthodes pédagogiques}{212}{subsection.6.2.36}%
+\contentsline {subsection}{\numberline {6.2.37}Tableau 2 : les piliers de la refondation selon les données de la recherche}{212}{subsection.6.2.37}%
+\contentsline {part}{III\hspace {1em}Refondation : Vers une Approche Communicative et Lexicale Intégrée (SLA)}{215}{part.3}%
+\contentsline {chapter}{\numberline {7}La Priorisation Lexicale : La Règle de l'Efficacité}{216}{chapter.7}%
+\contentsline {section}{\numberline {7.1}L'Encodage Profond : Au-delà de la liste bilingue}{216}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}Critique cognitive de la liste bilingue : le piège de l'association de mots}{217}{subsection.7.1.1}%
+\contentsline {subsection}{\numberline {7.1.2}L'hégémonie du modèle d'association de mots (word association model)}{217}{subsection.7.1.2}%
+\contentsline {subsection}{\numberline {7.1.3}La pauvreté du traitement : l'illusion de l'apprentissage superficiel}{218}{subsection.7.1.3}%
+\contentsline {subsection}{\numberline {7.1.4}La surcharge cognitive et l'effet d'attention partagée}{219}{subsection.7.1.4}%
+\contentsline {subsection}{\numberline {7.1.5}Fondements théoriques de l'encodage profond}{219}{subsection.7.1.5}%
+\contentsline {subsection}{\numberline {7.1.6}La théorie du double codage (dual coding theory) : la puissance de l'image}{220}{subsection.7.1.6}%
+\contentsline {subsection}{\numberline {7.1.7}L'hypothèse de la charge d'implication (involvement load hypothesis)}{220}{subsection.7.1.7}%
+\contentsline {subsection}{\numberline {7.1.8}La cognition incarnée (embodied cognition) et l'ancrage sensorimoteur}{221}{subsection.7.1.8}%
+\contentsline {subsection}{\numberline {7.1.9}Le modèle déclaratif/procédural de ullman : vers l'automatisation}{222}{subsection.7.1.9}%
+\contentsline {subsection}{\numberline {7.1.10}La sémantisation directe en pratique : dispositifs et méthodes}{222}{subsection.7.1.10}%
+\contentsline {subsection}{\numberline {7.1.11}Le paradigme "per se illustrata" : l'image comme pivot sémantique}{222}{subsection.7.1.11}%
+\contentsline {subsection}{\numberline {7.1.12}Mécanisme de l'induction illustrée}{223}{subsection.7.1.12}%
+\contentsline {subsection}{\numberline {7.1.13}La méthode polis et le concept de "sémantisation discursive"}{223}{subsection.7.1.13}%
+\contentsline {subsection}{\numberline {7.1.14}Définition de la sémantisation chez rico}{223}{subsection.7.1.14}%
+\contentsline {subsection}{\numberline {7.1.15}L'intégration du tpr (total physical response)}{224}{subsection.7.1.15}%
+\contentsline {subsection}{\numberline {7.1.16}Le living sequential expression (lse) : l'encodage procédural}{224}{subsection.7.1.16}%
+\contentsline {subsection}{\numberline {7.1.17}Tprs et la narration comme vecteur sémantique}{224}{subsection.7.1.17}%
+\contentsline {subsection}{\numberline {7.1.18}Limites et perspectives : le défi de l'abstraction}{225}{subsection.7.1.18}%
+\contentsline {subsection}{\numberline {7.1.19}L'abstraction par la contextualisation narrative}{225}{subsection.7.1.19}%
+\contentsline {subsection}{\numberline {7.1.20}Le rôle métalinguistique de la l1}{226}{subsection.7.1.20}%
+\contentsline {subsection}{\numberline {7.1.21}Conclusion}{226}{subsection.7.1.21}%
+\contentsline {chapter}{\numberline {8}L'Approche Communicative et Dynamique (Modèle Polis)}{227}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Le primat de l'Oral (Modèle LSRW) : Listening > Speaking > Reading > Writing}{227}{section.8.1}%
+\contentsline {subsection}{\numberline {8.1.1}Genèse de l'approche : de la méthode directe à l'audio-lingualisme}{228}{subsection.8.1.1}%
+\contentsline {subsection}{\numberline {8.1.2}L.g. alexander et la formalisation structurelle-fonctionnelle}{228}{subsection.8.1.2}%
+\contentsline {subsection}{\numberline {8.1.3}Le "niveau seuil" du conseil de l'europe (1975) et la compétence communicative}{229}{subsection.8.1.3}%
+\contentsline {subsection}{\numberline {8.1.4}La boucle phonologique et la mémoire de travail}{230}{subsection.8.1.4}%
+\contentsline {subsection}{\numberline {8.1.5}Le paradoxe de la lecture et le recyclage neuronal}{230}{subsection.8.1.5}%
+\contentsline {subsection}{\numberline {8.1.6}Subvocalisation : la voix intérieure du lecteur}{231}{subsection.8.1.6}%
+\contentsline {subsection}{\numberline {8.1.7}Interférence orthographique et fossilisation}{231}{subsection.8.1.7}%
+\contentsline {subsection}{\numberline {8.1.8}Input compréhensible et ordre d'acquisition}{232}{subsection.8.1.8}%
+\contentsline {subsection}{\numberline {8.1.9}La période silencieuse (the silent period)}{232}{subsection.8.1.9}%
+\contentsline {subsection}{\numberline {8.1.10}Distinction entre apprentissage et acquisition}{232}{subsection.8.1.10}%
+\contentsline {subsection}{\numberline {8.1.11}La méthode polis et l'approche dynamique}{233}{subsection.8.1.11}%
+\contentsline {subsection}{\numberline {8.1.12}Total physical response (tpr) : le corps au service de l'oreille}{233}{subsection.8.1.12}%
+\contentsline {subsection}{\numberline {8.1.13}Randall buth et le living biblical hebrew/greek}{234}{subsection.8.1.13}%
+\contentsline {subsection}{\numberline {8.1.14}Tableau comparatif des approches pédagogiques}{234}{subsection.8.1.14}%
+\contentsline {subsection}{\numberline {8.1.15}Réduction de la charge extrinsèque}{234}{subsection.8.1.15}%
+\contentsline {subsection}{\numberline {8.1.16}L'illusion de la "perte de temps"}{235}{subsection.8.1.16}%
+\contentsline {section}{\numberline {8.2}Techniques d'ancrage moteur : TPR et Living Sequential Expression}{236}{section.8.2}%
+\contentsline {subsection}{\numberline {8.2.1}Point iii.2.2 : total physical response (tpr) et living sequential expression (lse) pour l'inscription en mémoire procédurale}{236}{subsection.8.2.1}%
+\contentsline {subsection}{\numberline {8.2.2}Sommaire exécutif}{236}{subsection.8.2.2}%
+\contentsline {subsection}{\numberline {8.2.3}Fondements neurocognitifs : du mouvement à la mémoire}{238}{subsection.8.2.3}%
+\contentsline {subsection}{\numberline {8.2.4}Le modèle déclaratif/procédural (dp) de michael ullman}{238}{subsection.8.2.4}%
+\contentsline {subsection}{\numberline {8.2.5}Cognition incarnée et effet d'enactment}{239}{subsection.8.2.5}%
+\contentsline {subsection}{\numberline {8.2.6}Implications pour les langues "mortes"}{240}{subsection.8.2.6}%
+\contentsline {subsection}{\numberline {8.2.7}Total physical response (tpr) : l'impératif comme levier d'acquisition}{240}{subsection.8.2.7}%
+\contentsline {subsection}{\numberline {8.2.8}Les hypothèses fondatrices de james asher}{240}{subsection.8.2.8}%
+\contentsline {subsection}{\numberline {8.2.9}A. l'hypothèse du bio-programme inné (\textit {the bio-program})}{240}{subsection.8.2.9}%
+\contentsline {subsection}{\numberline {8.2.10}B. l'hypothèse de la latéralisation cérébrale}{241}{subsection.8.2.10}%
+\contentsline {subsection}{\numberline {8.2.11}La réduction du stress (le filtre affectif)}{241}{subsection.8.2.11}%
+\contentsline {subsection}{\numberline {8.2.12}Méthodologie opérationnelle en classe de grec}{241}{subsection.8.2.12}%
+\contentsline {subsection}{\numberline {8.2.13}Efficacité et limites : ce que dit la recherche}{242}{subsection.8.2.13}%
+\contentsline {subsection}{\numberline {8.2.14}Living sequential expression (lse) : de la séquence à la narration}{242}{subsection.8.2.14}%
+\contentsline {subsection}{\numberline {8.2.15}Archéologie de la méthode : l'épiphanie de françois gouin}{243}{subsection.8.2.15}%
+\contentsline {subsection}{\numberline {8.2.16}Le renouveau à l'institut polis : la technique lse}{244}{subsection.8.2.16}%
+\contentsline {subsection}{\numberline {8.2.17}Exemples d'application au corpus grec}{245}{subsection.8.2.17}%
+\contentsline {subsection}{\numberline {8.2.18}Synthèse et synergies : vers une pédagogie intégrée}{245}{subsection.8.2.18}%
+\contentsline {subsection}{\numberline {8.2.19}Comparaison stratégique}{245}{subsection.8.2.19}%
+\contentsline {subsection}{\numberline {8.2.20}Progression curriculaire suggérée}{245}{subsection.8.2.20}%
+\contentsline {subsection}{\numberline {8.2.21}Le défi de l'abstraction et la "métaphore motrice"}{246}{subsection.8.2.21}%
+\contentsline {subsection}{\numberline {8.2.22}Conclusion}{247}{subsection.8.2.22}%
+\contentsline {section}{\numberline {8.3}La Narration Interactive (TPRS) : Transformer l'input en intake}{247}{section.8.3}%
+\contentsline {subsection}{\numberline {8.3.1}1\. cadre théorique : de la perception à l'intégration linguistique}{248}{subsection.8.3.1}%
+\contentsline {subsection}{\numberline {8.3.2}La dichotomie input/intake dans le modèle de vanpatten}{248}{subsection.8.3.2}%
+\contentsline {subsection}{\numberline {8.3.3}La saturation de la mémoire de travail et le rôle de l'attention}{249}{subsection.8.3.3}%
+\contentsline {subsection}{\numberline {8.3.4}L'acquisition implicite vs apprentissage explicite}{250}{subsection.8.3.4}%
+\contentsline {subsection}{\numberline {8.3.5}2\. anatomie méthodologique du tprs appliquée au grec}{250}{subsection.8.3.5}%
+\contentsline {subsection}{\numberline {8.3.6}Étape i : établir le sens (establish meaning)}{250}{subsection.8.3.6}%
+\contentsline {subsection}{\numberline {8.3.7}Étape ii : la narration interactive (ask a story)}{251}{subsection.8.3.7}%
+\contentsline {subsection}{\numberline {8.3.8}Le mécanisme du "circling" et la densité de l'input}{251}{subsection.8.3.8}%
+\contentsline {subsection}{\numberline {8.3.9}La co-construction et l'engagement (pqa)}{251}{subsection.8.3.9}%
+\contentsline {subsection}{\numberline {8.3.10}Étape iii : lecture et discussion (read and discuss)}{252}{subsection.8.3.10}%
+\contentsline {subsection}{\numberline {8.3.11}3\. adaptations spécifiques au grec ancien et innovations méthodologiques}{252}{subsection.8.3.11}%
+\contentsline {subsection}{\numberline {8.3.12}Le défi morphologique : tprs vs "living sequential expression" (lse)}{252}{subsection.8.3.12}%
+\contentsline {subsection}{\numberline {8.3.13}La question de la "rigueur" et du contenu}{253}{subsection.8.3.13}%
+\contentsline {subsection}{\numberline {8.3.14}Ressources et communauté de pratique}{254}{subsection.8.3.14}%
+\contentsline {subsection}{\numberline {8.3.15}4\. analyse des données et preuves d'efficacité}{254}{subsection.8.3.15}%
+\contentsline {subsection}{\numberline {8.3.16}La synthèse de karen lichtman ("the wonder table")}{254}{subsection.8.3.16}%
+\contentsline {subsection}{\numberline {8.3.17}Données neurocognitives sur la répétition et l'intake}{254}{subsection.8.3.17}%
+\contentsline {subsection}{\numberline {8.3.18}Critiques et réponses}{255}{subsection.8.3.18}%
+\contentsline {subsection}{\numberline {8.3.19}5\. synthèse bibliographique stratégique pour la thèse}{255}{subsection.8.3.19}%
+\contentsline {subsection}{\numberline {8.3.20}Fondements épistémologiques (le "pourquoi")}{255}{subsection.8.3.20}%
+\contentsline {subsection}{\numberline {8.3.21}Méthodologie et pratique (le "comment")}{256}{subsection.8.3.21}%
+\contentsline {subsection}{\numberline {8.3.22}Application au grec et latin (le contexte spécifique)}{256}{subsection.8.3.22}%
+\contentsline {subsection}{\numberline {8.3.23}Conclusion}{256}{subsection.8.3.23}%
+\contentsline {chapter}{\numberline {9}Fondements Neurocognitifs et Consolidation}{258}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Hippocampe vs Néocortex : Les deux temps de la mémoire}{258}{section.9.1}%
+\contentsline {subsection}{\numberline {9.1.1}L'architecture bipartite de la mémoire : la théorie des systèmes d'apprentissage complémentaires (cls)}{259}{subsection.9.1.1}%
+\contentsline {subsection}{\numberline {9.1.2}Le dilemme plasticité-stabilité}{259}{subsection.9.1.2}%
+\contentsline {subsection}{\numberline {9.1.3}Le système hippocampique : l'apprentissage rapide et épisodique}{260}{subsection.9.1.3}%
+\contentsline {subsection}{\numberline {9.1.4}Mécanismes de "one-shot learning"}{260}{subsection.9.1.4}%
+\contentsline {subsection}{\numberline {9.1.5}Pertinence pour le grec ancien}{260}{subsection.9.1.5}%
+\contentsline {subsection}{\numberline {9.1.6}Limitations critiques : le goulot d'étranglement}{260}{subsection.9.1.6}%
+\contentsline {subsection}{\numberline {9.1.7}Le système néocortical : l'apprentissage lent et structuré}{261}{subsection.9.1.7}%
+\contentsline {subsection}{\numberline {9.1.8}Apprentissage statistique et généralisation}{261}{subsection.9.1.8}%
+\contentsline {subsection}{\numberline {9.1.9}La complémentarité fonctionnelle}{261}{subsection.9.1.9}%
+\contentsline {subsection}{\numberline {9.1.10}L'interférence catastrophique : la pathologie du "cramming"}{261}{subsection.9.1.10}%
+\contentsline {subsection}{\numberline {9.1.11}Le sommeil : l'usine de consolidation systémique}{262}{subsection.9.1.11}%
+\contentsline {subsection}{\numberline {9.1.12}Le mécanisme du transfert hippocampo-cortical}{262}{subsection.9.1.12}%
+\contentsline {subsection}{\numberline {9.1.13}Le sommeil à ondes lentes (sws) et le replay}{262}{subsection.9.1.13}%
+\contentsline {subsection}{\numberline {9.1.14}Le rôle critique de l'acétylcholine}{263}{subsection.9.1.14}%
+\contentsline {subsection}{\numberline {9.1.15}Spécialisation des phases de sommeil : vocabulaire vs grammaire}{263}{subsection.9.1.15}%
+\contentsline {subsection}{\numberline {9.1.16}Sommeil sws et mémoire déclarative (vocabulaire)}{263}{subsection.9.1.16}%
+\contentsline {subsection}{\numberline {9.1.17}Sommeil rem et mémoire procédurale (grammaire)}{263}{subsection.9.1.17}%
+\contentsline {subsection}{\numberline {9.1.18}L'apprentissage "offline" et la latence}{264}{subsection.9.1.18}%
+\contentsline {subsection}{\numberline {9.1.19}Conséquences pour la refondation du curriculum}{264}{subsection.9.1.19}%
+\contentsline {subsection}{\numberline {9.1.20}L'espacement (spacing effect) : surmonter le goulot d'étranglement hippocampique}{265}{subsection.9.1.20}%
+\contentsline {subsection}{\numberline {9.1.21}Mécanismes synaptiques et moléculaires de l'espacement}{265}{subsection.9.1.21}%
+\contentsline {subsection}{\numberline {9.1.22}La "difficulté désirable" et la récupération}{265}{subsection.9.1.22}%
+\contentsline {subsection}{\numberline {9.1.23}Interleaving (entrelacement) vs blocking : le cas de la morphologie}{266}{subsection.9.1.23}%
+\contentsline {subsection}{\numberline {9.1.24}Algorithmes de répétition espacée (srs) et "sentence mining"}{266}{subsection.9.1.24}%
+\contentsline {subsection}{\numberline {9.1.25}Refondation du curriculum : de l'explicite à l'implicite}{267}{subsection.9.1.25}%
+\contentsline {subsection}{\numberline {9.1.26}Le modèle déclaratif/procédural (dp) et le drame de la l2}{267}{subsection.9.1.26}%
+\contentsline {subsection}{\numberline {9.1.27}Krashen, input compréhensible et statistiques néocorticales}{267}{subsection.9.1.27}%
+\contentsline {subsection}{\numberline {9.1.28}L'approche "embodied" et la réduction de l'anxiété}{268}{subsection.9.1.28}%
+\contentsline {subsection}{\numberline {9.1.29}Application pratique : les "graded readers"}{268}{subsection.9.1.29}%
+\contentsline {section}{\numberline {9.2}La Lecture Extensive : Outil roi de la consolidation}{269}{section.9.2}%
+\contentsline {subsection}{\numberline {9.2.1}1\. fondements neurocognitifs de l'automatisation de la lecture}{270}{subsection.9.2.1}%
+\contentsline {subsection}{\numberline {9.2.2}La théorie de l'automaticité de laberge et samuels}{271}{subsection.9.2.2}%
+\contentsline {subsection}{\numberline {9.2.3}Le modèle déclaratif/procédural (dp) et le cerveau bilingue}{271}{subsection.9.2.3}%
+\contentsline {subsection}{\numberline {9.2.4}La double voie et la décomposition morphologique}{272}{subsection.9.2.4}%
+\contentsline {subsection}{\numberline {9.2.5}L'importance de la prosodie}{273}{subsection.9.2.5}%
+\contentsline {subsection}{\numberline {9.2.6}2\. les métriques de la compréhension : combien de mots faut-il?}{273}{subsection.9.2.6}%
+\contentsline {subsection}{\numberline {9.2.7}La règle impérative des 98\%}{273}{subsection.9.2.7}%
+\contentsline {subsection}{\numberline {9.2.8}Le paradoxe 98-56 du corpus grec}{274}{subsection.9.2.8}%
+\contentsline {subsection}{\numberline {9.2.9}Recyclage lexical et répétition espacée}{274}{subsection.9.2.9}%
+\contentsline {subsection}{\numberline {9.2.10}3\. typologie et analyse bibliographique des ressources er}{274}{subsection.9.2.10}%
+\contentsline {subsection}{\numberline {9.2.11}Les pionniers de la méthode directe (1900-1920)}{274}{subsection.9.2.11}%
+\contentsline {subsection}{\numberline {9.2.12}Les manuels narratifs et la méthode "naturelle" (fin xxe)}{275}{subsection.9.2.12}%
+\contentsline {subsection}{\numberline {9.2.13}La révolution des novellas et du "sheltered vocabulary" (xxie siècle)}{275}{subsection.9.2.13}%
+\contentsline {subsection}{\numberline {9.2.14}A. les novellas et le mouvement "indie"}{276}{subsection.9.2.14}%
+\contentsline {subsection}{\numberline {9.2.15}B. glossahouse et les ressources bibliques}{276}{subsection.9.2.15}%
+\contentsline {subsection}{\numberline {9.2.16}Tableau synthétique des ressources er : typologie et niveaux}{276}{subsection.9.2.16}%
+\contentsline {subsection}{\numberline {9.2.17}4\. efficacité pédagogique et preuves empiriques}{277}{subsection.9.2.17}%
+\contentsline {subsection}{\numberline {9.2.18}Réduction de l'anxiété et motivation (étude humphreys 2022\)}{277}{subsection.9.2.18}%
+\contentsline {subsection}{\numberline {9.2.19}L'effet "clockwork orange" et l'acquisition incidentelle}{277}{subsection.9.2.19}%
+\contentsline {subsection}{\numberline {9.2.20}Les résultats institutionnels (polis \& vivarium novum)}{278}{subsection.9.2.20}%
+\contentsline {subsection}{\numberline {9.2.21}La problématique de la prononciation et de l'oralisation}{278}{subsection.9.2.21}%
+\contentsline {subsection}{\numberline {9.2.22}5\. stratégies de mise en œuvre : le fvr et l'échelonnage}{278}{subsection.9.2.22}%
+\contentsline {subsection}{\numberline {9.2.23}La lecture libre volontaire (fvr) et la bibliothèque de classe}{278}{subsection.9.2.23}%
+\contentsline {subsection}{\numberline {9.2.24}La stratégie de l'échelonnage (laddering)}{279}{subsection.9.2.24}%
+\contentsline {subsection}{\numberline {9.2.25}Conclusion}{279}{subsection.9.2.25}%
+\contentsline {section}{\numberline {9.3}L'Analogie de la Conduite : Du manuel technique à la communication}{280}{section.9.3}%
+\contentsline {subsection}{\numberline {9.3.1}Fondements philosophiques et cognitifs : la distinction catégorielle}{281}{subsection.9.3.1}%
+\contentsline {subsection}{\numberline {9.3.2}Le fantôme dans la machine : gilbert ryle et la réfutation de l'intellectualisme}{281}{subsection.9.3.2}%
+\contentsline {subsection}{\numberline {9.3.3}De la théorie à l'algorithme : le modèle act-r de john anderson}{282}{subsection.9.3.3}%
+\contentsline {subsection}{\numberline {9.3.4}Le stade cognitif (déclaratif)}{282}{subsection.9.3.4}%
+\contentsline {subsection}{\numberline {9.3.5}Le stade associatif et la compilation des connaissances}{282}{subsection.9.3.5}%
+\contentsline {subsection}{\numberline {9.3.6}Le stade autonome (procédural)}{283}{subsection.9.3.6}%
+\contentsline {subsection}{\numberline {9.3.7}Traitement contrôlé vs traitement automatique : la gestion de l'attention}{283}{subsection.9.3.7}%
+\contentsline {subsection}{\numberline {9.3.8}La barrière neurobiologique : pourquoi le manuel ne devient jamais conduite}{284}{subsection.9.3.8}%
+\contentsline {subsection}{\numberline {9.3.9}Le modèle déclaratif/procédural (dp) de michael ullman}{284}{subsection.9.3.9}%
+\contentsline {subsection}{\numberline {9.3.10}Le système de mémoire déclarative (le manuel)}{284}{subsection.9.3.10}%
+\contentsline {subsection}{\numberline {9.3.11}Le système de mémoire procédurale (la conduite)}{284}{subsection.9.3.11}%
+\contentsline {subsection}{\numberline {9.3.12}Le débat de l'interface et la muraille de chine cognitive}{285}{subsection.9.3.12}%
+\contentsline {subsection}{\numberline {9.3.13}La position de non-interface (krashen)}{285}{subsection.9.3.13}%
+\contentsline {subsection}{\numberline {9.3.14}La position neuro-linguistique de michel paradis}{285}{subsection.9.3.14}%
+\contentsline {subsection}{\numberline {9.3.15}Consolidation mnésique : synaptique vs systémique}{286}{subsection.9.3.15}%
+\contentsline {subsection}{\numberline {9.3.16}L'échec du manuel technique : critique de la méthode grammaire-traduction}{286}{subsection.9.3.16}%
+\contentsline {subsection}{\numberline {9.3.17}Le principe tap (transfer appropriate processing) : l'erreur d'encodage}{287}{subsection.9.3.17}%
+\contentsline {subsection}{\numberline {9.3.18}Le phénomène de « stalling » et la surcharge cognitive}{287}{subsection.9.3.18}%
+\contentsline {subsection}{\numberline {9.3.19}L'illusion de la précision et le leurre de la règle}{288}{subsection.9.3.19}%
+\contentsline {subsection}{\numberline {9.3.20}Prendre le volant : vers une pédagogie de la procéduralisation}{288}{subsection.9.3.20}%
+\contentsline {subsection}{\numberline {9.3.21}L'approche immersive et le modèle de l'institut polis}{288}{subsection.9.3.21}%
+\contentsline {subsection}{\numberline {9.3.22}Living sequential expression (lse) : le gps narratif de gouin}{289}{subsection.9.3.22}%
+\contentsline {subsection}{\numberline {9.3.23}Total physical response (tpr) et cognition incarnée (embodied cognition)}{289}{subsection.9.3.23}%
+\contentsline {subsection}{\numberline {9.3.24}Le carburant de la conduite : le seuil lexical de 98\%}{290}{subsection.9.3.24}%
+\contentsline {subsection}{\numberline {9.3.25}Les 4 piliers de l'apprentissage (dehaene) appliqués au grec}{290}{subsection.9.3.25}%
+\contentsline {subsection}{\numberline {9.3.26}Conclusion : lâcher le manuel pour regarder la route}{290}{subsection.9.3.26}%
+\contentsline {chapter}{\numberline {10}Continuité et Ponts Linguistiques}{292}{chapter.10}%
+\contentsline {section}{\numberline {10.1}La question de la Prononciation : Vivante contre érasmienne}{292}{section.10.1}%
+\contentsline {subsection}{\numberline {10.1.1}Archéologie d'un dogme : genèse, réception et dérive de la prononciation érasmienne}{293}{subsection.10.1.1}%
+\contentsline {subsection}{\numberline {10.1.2}Le \textit {dialogus} de 1528 : entre érudition humaniste et canular savant?}{293}{subsection.10.1.2}%
+\contentsline {subsection}{\numberline {10.1.3}La guerre des prononciations : érasmiens contre reuchliniens}{294}{subsection.10.1.3}%
+\contentsline {subsection}{\numberline {10.1.4}Le "schisme philologique" en france}{294}{subsection.10.1.4}%
+\contentsline {subsection}{\numberline {10.1.5}Le désenchantement et la victoire de l'académie}{294}{subsection.10.1.5}%
+\contentsline {subsection}{\numberline {10.1.6}De la "restitution" à l'artifice : anatomie de la babel érasmienne}{295}{subsection.10.1.6}%
+\contentsline {subsection}{\numberline {10.1.7}L'illusion de l'universalité : les "érasmismes" nationaux}{295}{subsection.10.1.7}%
+\contentsline {subsection}{\numberline {10.1.8}L'artifice comme obstacle cognitif}{296}{subsection.10.1.8}%
+\contentsline {subsection}{\numberline {10.1.9}Les fondements cognitifs de l'oralité : pourquoi le cerveau a besoin de son}{296}{subsection.10.1.9}%
+\contentsline {subsection}{\numberline {10.1.10}La boucle phonologique et la mémoire de travail}{297}{subsection.10.1.10}%
+\contentsline {subsection}{\numberline {10.1.11}Subvocalisation et fluence de lecture}{297}{subsection.10.1.11}%
+\contentsline {subsection}{\numberline {10.1.12}L'importance de l'input auditif et de l'immersion}{298}{subsection.10.1.12}%
+\contentsline {subsection}{\numberline {10.1.13}Les alternatives vivantes : modèles historiques et pédagogiques}{298}{subsection.10.1.13}%
+\contentsline {subsection}{\numberline {10.1.14}L'option "néo-hellénique" (reuchlinienne) : la continuité vivante}{298}{subsection.10.1.14}%
+\contentsline {subsection}{\numberline {10.1.15}L'option "koine restituée" (modèle buth/rico/ranieri) : la voie médiane}{299}{subsection.10.1.15}%
+\contentsline {subsection}{\numberline {10.1.16}L'option "attique restituée" (allen/stratakis) : l'idéal scientifique}{299}{subsection.10.1.16}%
+\contentsline {subsection}{\numberline {10.1.17}Synthèse comparative et recommandations pour la thèse}{300}{subsection.10.1.17}%
+\contentsline {subsection}{\numberline {10.1.18}Tableau comparatif des systèmes phonologiques}{300}{subsection.10.1.18}%
+\contentsline {subsection}{\numberline {10.1.19}Vers une pragmatique de la prononciation}{300}{subsection.10.1.19}%
+\contentsline {subsection}{\numberline {10.1.20}Conclusion}{301}{subsection.10.1.20}%
+\contentsline {section}{\numberline {10.2}Le Grec Moderne comme ressource : Continuité lexicale et motivation}{301}{section.10.2}%
+\contentsline {subsection}{\numberline {10.2.1}Épistémologie de la continuité linguistique : déconstruire la rupture}{302}{subsection.10.2.1}%
+\contentsline {subsection}{\numberline {10.2.2}L'unité diachronique du grec : perspectives historiographiques}{302}{subsection.10.2.2}%
+\contentsline {subsection}{\numberline {10.2.3}La question de la diglossie et la fossilisation}{302}{subsection.10.2.3}%
+\contentsline {subsection}{\numberline {10.2.4}Quantification du recouvrement lexical (overlap analysis)}{303}{subsection.10.2.4}%
+\contentsline {subsection}{\numberline {10.2.5}Psycholinguistique de l'apprentissage : charge cognitive et motivation}{304}{subsection.10.2.5}%
+\contentsline {subsection}{\numberline {10.2.6}L'hypothèse du seuil lexical (laufer \& nation) et la lecture extensive}{304}{subsection.10.2.6}%
+\contentsline {subsection}{\numberline {10.2.7}La propaédeutique par le moderne : l'approche "backdoor"}{304}{subsection.10.2.7}%
+\contentsline {subsection}{\numberline {10.2.8}La problématique de la prononciation : érasme contre la réalité sonore}{305}{subsection.10.2.8}%
+\contentsline {subsection}{\numberline {10.2.9}Méthodologies actives et vivantes : études de cas}{306}{subsection.10.2.9}%
+\contentsline {subsection}{\numberline {10.2.10}L'institut polis (jérusalem) : la méthode rico et l'immersion totale}{306}{subsection.10.2.10}%
+\contentsline {subsection}{\numberline {10.2.11}Elliniki agogi (athènes) : l'héritage vivant}{306}{subsection.10.2.11}%
+\contentsline {subsection}{\numberline {10.2.12}Le levier du vocabulaire scientifique : ancrage interne et utilité perçue}{307}{subsection.10.2.12}%
+\contentsline {subsection}{\numberline {10.2.13}Le grec, langue invisible de la modernité scientifique}{307}{subsection.10.2.13}%
+\contentsline {subsection}{\numberline {10.2.14}Contexte institutionnel et didactique (lca en france)}{307}{subsection.10.2.14}%
+\contentsline {subsection}{\numberline {10.2.15}Modélisation didactique : la "boucle étymologique"}{308}{subsection.10.2.15}%
+\contentsline {subsection}{\numberline {10.2.16}Tableau 2 : comparaison des approches de la prononciation}{308}{subsection.10.2.16}%
+\contentsline {subsection}{\numberline {10.2.17}Tableau 3 : impact de la continuité lexicale sur l'apprentissage (données synthétiques kavčič \& laufer)}{308}{subsection.10.2.17}%

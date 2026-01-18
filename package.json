@@ -1,0 +1,29 @@
+{
+  "name": "these_t",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l-pommeret/these_T.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/l-pommeret/these_T/issues"
+  },
+  "homepage": "https://github.com/l-pommeret/these_T#readme",
+  "dependencies": {
+    "@citation-js/plugin-bibtex": "^0.7.21",
+    "@citation-js/plugin-csl": "^0.7.22",
+    "@citation-js/plugin-doi": "^0.7.21",
+    "@citation-js/plugin-ris": "^0.7.21",
+    "@citation-js/plugin-wikidata": "^0.7.22",
+    "citation-js": "^0.7.22"
+  }
+}

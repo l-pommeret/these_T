@@ -1,0 +1,858 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: apalike.bst
+Reallocated field_info (elt_size=4) to 20884 items from 5000.
+Database file #1: sous-parties/master.bib
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
+Reallocated str_pool (elt_size=1) to 195000 items from 130000.
+Warning--I didn't find a database entry for "I-3-1-ref1"
+Warning--I didn't find a database entry for "I-3-1-ref2"
+Warning--I didn't find a database entry for "I-3-1-ref3"
+Warning--I didn't find a database entry for "I-3-1-ref6"
+Warning--I didn't find a database entry for "I-3-1-ref8"
+Warning--I didn't find a database entry for "I-3-1-ref5"
+Warning--I didn't find a database entry for "I-3-1-ref16"
+Warning--I didn't find a database entry for "I-3-1-ref19"
+Warning--I didn't find a database entry for "I-3-1-ref21"
+Warning--I didn't find a database entry for "I-3-1-ref13"
+Warning--I didn't find a database entry for "I-3-1-ref24"
+Warning--I didn't find a database entry for "I-3-1-ref27"
+Warning--I didn't find a database entry for "I-3-1-ref29"
+Warning--I didn't find a database entry for "I-3-1-ref33"
+Warning--I didn't find a database entry for "I-3-1-ref34"
+Warning--I didn't find a database entry for "I-3-1-ref4"
+Warning--I didn't find a database entry for "I-3-1-ref38"
+Warning--I didn't find a database entry for "I-3-1-ref11"
+Warning--I didn't find a database entry for "I-3-1-ref25"
+Warning--I didn't find a database entry for "I-3-1-ref26"
+Warning--I didn't find a database entry for "I-3-1-ref40"
+Warning--I didn't find a database entry for "I-3-1-ref45"
+Warning--I didn't find a database entry for "I-3-1-ref50"
+Warning--I didn't find a database entry for "I-3-1-ref53"
+Warning--I didn't find a database entry for "I-3-1-ref56"
+Warning--I didn't find a database entry for "I-3-2-ref1"
+Warning--I didn't find a database entry for "I-3-2-ref5"
+Warning--I didn't find a database entry for "I-3-2-ref3"
+Warning--I didn't find a database entry for "I-3-2-ref9"
+Warning--I didn't find a database entry for "I-3-2-ref8"
+Warning--I didn't find a database entry for "I-3-2-ref11"
+Warning--I didn't find a database entry for "I-3-2-ref12"
+Warning--I didn't find a database entry for "I-3-2-ref13"
+Warning--I didn't find a database entry for "I-3-2-ref14"
+Warning--I didn't find a database entry for "I-3-2-ref16"
+Warning--I didn't find a database entry for "I-3-2-ref7"
+Warning--I didn't find a database entry for "I-3-2-ref18"
+Warning--I didn't find a database entry for "I-3-2-ref21"
+Warning--I didn't find a database entry for "I-3-2-ref23"
+Warning--I didn't find a database entry for "I-3-2-ref24"
+Warning--I didn't find a database entry for "I-3-2-ref26"
+Warning--I didn't find a database entry for "I-3-2-ref31"
+Warning--I didn't find a database entry for "I-3-2-ref32"
+Warning--I didn't find a database entry for "I-3-2-ref33"
+Warning--I didn't find a database entry for "I-3-2-ref2"
+Warning--I didn't find a database entry for "I-3-2-ref39"
+Warning--I didn't find a database entry for "I-3-3-ref3"
+Warning--I didn't find a database entry for "I-3-3-ref2"
+Warning--I didn't find a database entry for "I-3-3-ref6"
+Warning--I didn't find a database entry for "I-3-3-ref1"
+Warning--I didn't find a database entry for "I-3-3-ref8"
+Warning--I didn't find a database entry for "I-3-3-ref9"
+Warning--I didn't find a database entry for "I-3-3-ref10"
+Warning--I didn't find a database entry for "I-3-3-ref11"
+Warning--I didn't find a database entry for "I-3-3-ref13"
+Warning--I didn't find a database entry for "I-3-3-ref14"
+Warning--I didn't find a database entry for "I-3-3-ref17"
+Warning--I didn't find a database entry for "I-3-3-ref19"
+Warning--I didn't find a database entry for "I-3-3-ref21"
+Warning--I didn't find a database entry for "I-3-3-ref12"
+Warning--I didn't find a database entry for "I-3-3-ref23"
+Warning--I didn't find a database entry for "ref1"
+Warning--I didn't find a database entry for "ref4"
+Warning--I didn't find a database entry for "ref6"
+Warning--I didn't find a database entry for "ref3"
+Warning--I didn't find a database entry for "ref8"
+Warning--I didn't find a database entry for "ref11"
+Warning--I didn't find a database entry for "ref16"
+Warning--I didn't find a database entry for "ref13"
+Warning--I didn't find a database entry for "ref19"
+Warning--I didn't find a database entry for "ref21"
+Warning--I didn't find a database entry for "ref22"
+Warning--I didn't find a database entry for "ref24"
+Warning--I didn't find a database entry for "ref25"
+Warning--I didn't find a database entry for "ref26"
+Warning--I didn't find a database entry for "ref28"
+Warning--I didn't find a database entry for "ref29"
+Warning--I didn't find a database entry for "ref33"
+Warning--I didn't find a database entry for "ref34"
+Warning--I didn't find a database entry for "ref14"
+Warning--I didn't find a database entry for "ref37"
+Warning--I didn't find a database entry for "ref27"
+Warning--I didn't find a database entry for "ref42"
+Warning--I didn't find a database entry for "ref2"
+Warning--I didn't find a database entry for "ref7"
+Warning--I didn't find a database entry for "ref5"
+Warning--I didn't find a database entry for "ref15"
+Warning--I didn't find a database entry for "ref20"
+Warning--I didn't find a database entry for "ref32"
+Warning--I didn't find a database entry for "ref39"
+Warning--I didn't find a database entry for "ref45"
+Warning--I didn't find a database entry for "ref48"
+Warning--I didn't find a database entry for "ref50"
+Warning--I didn't find a database entry for "ref54"
+128 isn't valid ASCII for entry I-2-3-ref10
+while executing---line 1060 of file apalike.bst
+129 isn't valid ASCII for entry II-3-3-ref69
+while executing---line 1060 of file apalike.bst
+130 isn't valid ASCII for entry III-2-1-ref46
+while executing---line 1060 of file apalike.bst
+131 isn't valid ASCII for entry II-3-1-ref30
+while executing---line 1060 of file apalike.bst
+132 isn't valid ASCII for entry I-1-1-ref27
+while executing---line 1060 of file apalike.bst
+133 isn't valid ASCII for entry II-3-1-ref13
+while executing---line 1060 of file apalike.bst
+134 isn't valid ASCII for entry I-1-1-ref23
+while executing---line 1060 of file apalike.bst
+135 isn't valid ASCII for entry II-1-2-ref4
+while executing---line 1060 of file apalike.bst
+136 isn't valid ASCII for entry II-2-2-ref4
+while executing---line 1060 of file apalike.bst
+137 isn't valid ASCII for entry II-3-1-ref42
+while executing---line 1060 of file apalike.bst
+138 isn't valid ASCII for entry III-3-3-ref21
+while executing---line 1060 of file apalike.bst
+139 isn't valid ASCII for entry II-3-1-ref31
+while executing---line 1060 of file apalike.bst
+140 isn't valid ASCII for entry II-3-3-ref70
+while executing---line 1060 of file apalike.bst
+141 isn't valid ASCII for entry I-1-2-ref23
+while executing---line 1060 of file apalike.bst
+142 isn't valid ASCII for entry I-1-2-ref4
+while executing---line 1060 of file apalike.bst
+143 isn't valid ASCII for entry II-3-3-ref58
+while executing---line 1060 of file apalike.bst
+144 isn't valid ASCII for entry II-1-2-ref14
+while executing---line 1060 of file apalike.bst
+145 isn't valid ASCII for entry II-2-3-ref23
+while executing---line 1060 of file apalike.bst
+146 isn't valid ASCII for entry II-3-3-ref25
+while executing---line 1060 of file apalike.bst
+147 isn't valid ASCII for entry II-1-3-ref22
+while executing---line 1060 of file apalike.bst
+148 isn't valid ASCII for entry III-1-2-ref17
+while executing---line 1060 of file apalike.bst
+149 isn't valid ASCII for entry III-1-2-ref15
+while executing---line 1060 of file apalike.bst
+150 isn't valid ASCII for entry II-1-3-ref3
+while executing---line 1060 of file apalike.bst
+151 isn't valid ASCII for entry II-1-3-ref7
+while executing---line 1060 of file apalike.bst
+152 isn't valid ASCII for entry II-2-2-ref25
+while executing---line 1060 of file apalike.bst
+153 isn't valid ASCII for entry II-3-3-ref39
+while executing---line 1060 of file apalike.bst
+154 isn't valid ASCII for entry II-3-2-ref15
+while executing---line 1060 of file apalike.bst
+155 isn't valid ASCII for entry II-1-1-ref40
+while executing---line 1060 of file apalike.bst
+156 isn't valid ASCII for entry II-1-1-ref37
+while executing---line 1060 of file apalike.bst
+157 isn't valid ASCII for entry II-3-3-ref57
+while executing---line 1060 of file apalike.bst
+158 isn't valid ASCII for entry II-2-2-ref48
+while executing---line 1060 of file apalike.bst
+159 isn't valid ASCII for entry I-2-2-ref15
+while executing---line 1060 of file apalike.bst
+160 isn't valid ASCII for entry III-1-3-ref46
+while executing---line 1060 of file apalike.bst
+161 isn't valid ASCII for entry II-3-1-ref17
+while executing---line 1060 of file apalike.bst
+162 isn't valid ASCII for entry I-1-1-ref19
+while executing---line 1060 of file apalike.bst
+163 isn't valid ASCII for entry II-1-3-ref2
+while executing---line 1060 of file apalike.bst
+164 isn't valid ASCII for entry II-1-2-ref25
+while executing---line 1060 of file apalike.bst
+165 isn't valid ASCII for entry II-3-2-ref45
+while executing---line 1060 of file apalike.bst
+166 isn't valid ASCII for entry III-1-1-ref8
+while executing---line 1060 of file apalike.bst
+167 isn't valid ASCII for entry III-1-2-ref27
+while executing---line 1060 of file apalike.bst
+168 isn't valid ASCII for entry III-1-1-ref17
+while executing---line 1060 of file apalike.bst
+169 isn't valid ASCII for entry I-1-2-ref3
+while executing---line 1060 of file apalike.bst
+170 isn't valid ASCII for entry I-2-2-ref9
+while executing---line 1060 of file apalike.bst
+171 isn't valid ASCII for entry I-1-3-ref9
+while executing---line 1060 of file apalike.bst
+172 isn't valid ASCII for entry I-1-1-ref24
+while executing---line 1060 of file apalike.bst
+173 isn't valid ASCII for entry I-1-3-ref7
+while executing---line 1060 of file apalike.bst
+174 isn't valid ASCII for entry II-3-1-ref11
+while executing---line 1060 of file apalike.bst
+175 isn't valid ASCII for entry II-3-3-ref20
+while executing---line 1060 of file apalike.bst
+176 isn't valid ASCII for entry III-2-1-ref12
+while executing---line 1060 of file apalike.bst
+177 isn't valid ASCII for entry II-2-3-ref3
+while executing---line 1060 of file apalike.bst
+178 isn't valid ASCII for entry I-1-3-ref41
+while executing---line 1060 of file apalike.bst
+179 isn't valid ASCII for entry II-1-3-ref44
+while executing---line 1060 of file apalike.bst
+180 isn't valid ASCII for entry II-1-3-ref51
+while executing---line 1060 of file apalike.bst
+181 isn't valid ASCII for entry I-1-2-ref5
+while executing---line 1060 of file apalike.bst
+182 isn't valid ASCII for entry I-1-2-ref22
+while executing---line 1060 of file apalike.bst
+183 isn't valid ASCII for entry II-3-1-ref20
+while executing---line 1060 of file apalike.bst
+184 isn't valid ASCII for entry III-2-1-ref55
+while executing---line 1060 of file apalike.bst
+185 isn't valid ASCII for entry II-3-1-ref21
+while executing---line 1060 of file apalike.bst
+186 isn't valid ASCII for entry III-3-1-ref30
+while executing---line 1060 of file apalike.bst
+187 isn't valid ASCII for entry III-2-1-ref34
+while executing---line 1060 of file apalike.bst
+188 isn't valid ASCII for entry II-1-2-ref12
+while executing---line 1060 of file apalike.bst
+189 isn't valid ASCII for entry III-1-3-ref24
+while executing---line 1060 of file apalike.bst
+190 isn't valid ASCII for entry I-1-2-ref21
+while executing---line 1060 of file apalike.bst
+191 isn't valid ASCII for entry II-3-3-ref23
+while executing---line 1060 of file apalike.bst
+192 isn't valid ASCII for entry III-1-3-ref15
+while executing---line 1060 of file apalike.bst
+193 isn't valid ASCII for entry II-2-3-ref38
+while executing---line 1060 of file apalike.bst
+194 isn't valid ASCII for entry III-3-2-ref19
+while executing---line 1060 of file apalike.bst
+195 isn't valid ASCII for entry II-1-3-ref17
+while executing---line 1060 of file apalike.bst
+196 isn't valid ASCII for entry III-3-2-ref44
+while executing---line 1060 of file apalike.bst
+197 isn't valid ASCII for entry II-2-1-ref1
+while executing---line 1060 of file apalike.bst
+198 isn't valid ASCII for entry I-1-3-ref2
+while executing---line 1060 of file apalike.bst
+199 isn't valid ASCII for entry II-1-1-ref1
+while executing---line 1060 of file apalike.bst
+200 isn't valid ASCII for entry III-1-3-ref49
+while executing---line 1060 of file apalike.bst
+201 isn't valid ASCII for entry II-3-3-ref12
+while executing---line 1060 of file apalike.bst
+202 isn't valid ASCII for entry III-2-2-ref30
+while executing---line 1060 of file apalike.bst
+203 isn't valid ASCII for entry III-3-1-ref53
+while executing---line 1060 of file apalike.bst
+204 isn't valid ASCII for entry III-1-1-ref44
+while executing---line 1060 of file apalike.bst
+205 isn't valid ASCII for entry III-2-1-ref62
+while executing---line 1060 of file apalike.bst
+206 isn't valid ASCII for entry III-3-3-ref49
+while executing---line 1060 of file apalike.bst
+207 isn't valid ASCII for entry III-1-1-ref63
+while executing---line 1060 of file apalike.bst
+208 isn't valid ASCII for entry III-1-1-ref12
+while executing---line 1060 of file apalike.bst
+209 isn't valid ASCII for entry III-3-2-ref28
+while executing---line 1060 of file apalike.bst
+210 isn't valid ASCII for entry III-1-1-ref11
+while executing---line 1060 of file apalike.bst
+211 isn't valid ASCII for entry III-2-3-ref24
+while executing---line 1060 of file apalike.bst
+212 isn't valid ASCII for entry II-1-3-ref13
+while executing---line 1060 of file apalike.bst
+213 isn't valid ASCII for entry I-1-3-ref30
+while executing---line 1060 of file apalike.bst
+214 isn't valid ASCII for entry III-1-1-ref60
+while executing---line 1060 of file apalike.bst
+215 isn't valid ASCII for entry III-1-1-ref15
+while executing---line 1060 of file apalike.bst
+216 isn't valid ASCII for entry II-3-2-ref13
+while executing---line 1060 of file apalike.bst
+217 isn't valid ASCII for entry II-3-3-ref41
+while executing---line 1060 of file apalike.bst
+218 isn't valid ASCII for entry III-1-2-ref7
+while executing---line 1060 of file apalike.bst
+219 isn't valid ASCII for entry III-3-2-ref20
+while executing---line 1060 of file apalike.bst
+220 isn't valid ASCII for entry II-3-2-ref9
+while executing---line 1060 of file apalike.bst
+221 isn't valid ASCII for entry II-2-3-ref32
+while executing---line 1060 of file apalike.bst
+222 isn't valid ASCII for entry II-3-2-ref1
+while executing---line 1060 of file apalike.bst
+223 isn't valid ASCII for entry II-2-2-ref41
+while executing---line 1060 of file apalike.bst
+224 isn't valid ASCII for entry III-1-3-ref1
+while executing---line 1060 of file apalike.bst
+225 isn't valid ASCII for entry II-2-3-ref28
+while executing---line 1060 of file apalike.bst
+226 isn't valid ASCII for entry III-2-1-ref15
+while executing---line 1060 of file apalike.bst
+227 isn't valid ASCII for entry II-2-2-ref43
+while executing---line 1060 of file apalike.bst
+228 isn't valid ASCII for entry II-1-3-ref16
+while executing---line 1060 of file apalike.bst
+229 isn't valid ASCII for entry II-3-2-ref38
+while executing---line 1060 of file apalike.bst
+230 isn't valid ASCII for entry III-1-3-ref34
+while executing---line 1060 of file apalike.bst
+231 isn't valid ASCII for entry III-2-2-ref3
+while executing---line 1060 of file apalike.bst
+232 isn't valid ASCII for entry III-3-2-ref5
+while executing---line 1060 of file apalike.bst
+233 isn't valid ASCII for entry II-2-2-ref23
+while executing---line 1060 of file apalike.bst
+234 isn't valid ASCII for entry II-3-3-ref29
+while executing---line 1060 of file apalike.bst
+235 isn't valid ASCII for entry II-2-3-ref17
+while executing---line 1060 of file apalike.bst
+236 isn't valid ASCII for entry II-2-2-ref20
+while executing---line 1060 of file apalike.bst
+237 isn't valid ASCII for entry III-1-1-ref56
+while executing---line 1060 of file apalike.bst
+238 isn't valid ASCII for entry III-3-2-ref29
+while executing---line 1060 of file apalike.bst
+239 isn't valid ASCII for entry II-1-2-ref22
+while executing---line 1060 of file apalike.bst
+240 isn't valid ASCII for entry III-1-3-ref20
+while executing---line 1060 of file apalike.bst
+241 isn't valid ASCII for entry II-3-2-ref48
+while executing---line 1060 of file apalike.bst
+242 isn't valid ASCII for entry III-2-3-ref20
+while executing---line 1060 of file apalike.bst
+243 isn't valid ASCII for entry III-3-1-ref3
+while executing---line 1060 of file apalike.bst
+244 isn't valid ASCII for entry I-1-1-ref14
+while executing---line 1060 of file apalike.bst
+245 isn't valid ASCII for entry II-2-3-ref19
+while executing---line 1060 of file apalike.bst
+246 isn't valid ASCII for entry II-1-1-ref21
+while executing---line 1060 of file apalike.bst
+247 isn't valid ASCII for entry II-1-2-ref9
+while executing---line 1060 of file apalike.bst
+248 isn't valid ASCII for entry III-1-1-ref14
+while executing---line 1060 of file apalike.bst
+249 isn't valid ASCII for entry II-1-1-ref10
+while executing---line 1060 of file apalike.bst
+250 isn't valid ASCII for entry II-1-2-ref53
+while executing---line 1060 of file apalike.bst
+251 isn't valid ASCII for entry III-2-1-ref58
+while executing---line 1060 of file apalike.bst
+252 isn't valid ASCII for entry III-2-1-ref42
+while executing---line 1060 of file apalike.bst
+253 isn't valid ASCII for entry II-3-3-ref4
+while executing---line 1060 of file apalike.bst
+254 isn't valid ASCII for entry III-3-3-ref23
+while executing---line 1060 of file apalike.bst
+255 isn't valid ASCII for entry II-3-1-ref48
+while executing---line 1060 of file apalike.bst
+256 isn't valid ASCII for entry III-1-3-ref4
+while executing---line 1060 of file apalike.bst
+257 isn't valid ASCII for entry I-1-2-ref27
+while executing---line 1060 of file apalike.bst
+258 isn't valid ASCII for entry I-2-3-ref15
+while executing---line 1060 of file apalike.bst
+259 isn't valid ASCII for entry I-2-1-ref12
+while executing---line 1060 of file apalike.bst
+260 isn't valid ASCII for entry I-2-3-ref30
+while executing---line 1060 of file apalike.bst
+261 isn't valid ASCII for entry I-2-3-ref28
+while executing---line 1060 of file apalike.bst
+262 isn't valid ASCII for entry I-1-3-ref8
+while executing---line 1060 of file apalike.bst
+263 isn't valid ASCII for entry I-1-1-ref31
+while executing---line 1060 of file apalike.bst
+264 isn't valid ASCII for entry I-1-1-ref38
+while executing---line 1060 of file apalike.bst
+265 isn't valid ASCII for entry I-1-1-ref6
+while executing---line 1060 of file apalike.bst
+266 isn't valid ASCII for entry I-2-3-ref11
+while executing---line 1060 of file apalike.bst
+267 isn't valid ASCII for entry I-1-3-ref14
+while executing---line 1060 of file apalike.bst
+268 isn't valid ASCII for entry I-2-1-ref8
+while executing---line 1060 of file apalike.bst
+269 isn't valid ASCII for entry I-2-2-ref1
+while executing---line 1060 of file apalike.bst
+270 isn't valid ASCII for entry II-1-2-ref49
+while executing---line 1060 of file apalike.bst
+271 isn't valid ASCII for entry III-3-2-ref47
+while executing---line 1060 of file apalike.bst
+272 isn't valid ASCII for entry III-2-1-ref60
+while executing---line 1060 of file apalike.bst
+273 isn't valid ASCII for entry II-1-1-ref24
+while executing---line 1060 of file apalike.bst
+274 isn't valid ASCII for entry I-2-1-ref6
+while executing---line 1060 of file apalike.bst
+275 isn't valid ASCII for entry I-1-2-ref28
+while executing---line 1060 of file apalike.bst
+276 isn't valid ASCII for entry I-1-2-ref12
+while executing---line 1060 of file apalike.bst
+277 isn't valid ASCII for entry I-1-2-ref25
+while executing---line 1060 of file apalike.bst
+278 isn't valid ASCII for entry I-1-2-ref19
+while executing---line 1060 of file apalike.bst
+279 isn't valid ASCII for entry I-1-3-ref36
+while executing---line 1060 of file apalike.bst
+280 isn't valid ASCII for entry I-1-2-ref38
+while executing---line 1060 of file apalike.bst
+281 isn't valid ASCII for entry I-2-2-ref12
+while executing---line 1060 of file apalike.bst
+282 isn't valid ASCII for entry II-3-3-ref62
+while executing---line 1060 of file apalike.bst
+283 isn't valid ASCII for entry II-3-1-ref16
+while executing---line 1060 of file apalike.bst
+284 isn't valid ASCII for entry I-2-1-ref4
+while executing---line 1060 of file apalike.bst
+285 isn't valid ASCII for entry I-1-1-ref11
+while executing---line 1060 of file apalike.bst
+286 isn't valid ASCII for entry II-3-1-ref10
+while executing---line 1060 of file apalike.bst
+287 isn't valid ASCII for entry I-2-3-ref8
+while executing---line 1060 of file apalike.bst
+288 isn't valid ASCII for entry I-2-2-ref6
+while executing---line 1060 of file apalike.bst
+289 isn't valid ASCII for entry II-1-1-ref3
+while executing---line 1060 of file apalike.bst
+290 isn't valid ASCII for entry III-1-2-ref12
+while executing---line 1060 of file apalike.bst
+291 isn't valid ASCII for entry II-2-2-ref36
+while executing---line 1060 of file apalike.bst
+292 isn't valid ASCII for entry II-2-3-ref35
+while executing---line 1060 of file apalike.bst
+293 isn't valid ASCII for entry III-3-3-ref64
+while executing---line 1060 of file apalike.bst
+294 isn't valid ASCII for entry II-3-2-ref2
+while executing---line 1060 of file apalike.bst
+295 isn't valid ASCII for entry I-2-1-ref21
+while executing---line 1060 of file apalike.bst
+296 isn't valid ASCII for entry I-2-3-ref3
+while executing---line 1060 of file apalike.bst
+297 isn't valid ASCII for entry II-1-2-ref11
+while executing---line 1060 of file apalike.bst
+298 isn't valid ASCII for entry III-1-3-ref42
+while executing---line 1060 of file apalike.bst
+299 isn't valid ASCII for entry I-1-1-ref22
+while executing---line 1060 of file apalike.bst
+300 isn't valid ASCII for entry I-2-1-ref20
+while executing---line 1060 of file apalike.bst
+301 isn't valid ASCII for entry I-2-3-ref21
+while executing---line 1060 of file apalike.bst
+302 isn't valid ASCII for entry III-3-3-ref53
+while executing---line 1060 of file apalike.bst
+303 isn't valid ASCII for entry II-3-2-ref47
+while executing---line 1060 of file apalike.bst
+304 isn't valid ASCII for entry III-1-1-ref6
+while executing---line 1060 of file apalike.bst
+305 isn't valid ASCII for entry II-2-3-ref1
+while executing---line 1060 of file apalike.bst
+306 isn't valid ASCII for entry III-3-3-ref51
+while executing---line 1060 of file apalike.bst
+307 isn't valid ASCII for entry III-2-1-ref23
+while executing---line 1060 of file apalike.bst
+308 isn't valid ASCII for entry II-1-2-ref40
+while executing---line 1060 of file apalike.bst
+309 isn't valid ASCII for entry II-1-2-ref42
+while executing---line 1060 of file apalike.bst
+310 isn't valid ASCII for entry II-1-2-ref1
+while executing---line 1060 of file apalike.bst
+311 isn't valid ASCII for entry III-2-2-ref33
+while executing---line 1060 of file apalike.bst
+312 isn't valid ASCII for entry I-1-3-ref11
+while executing---line 1060 of file apalike.bst
+313 isn't valid ASCII for entry III-3-3-ref30
+while executing---line 1060 of file apalike.bst
+314 isn't valid ASCII for entry III-2-1-ref31
+while executing---line 1060 of file apalike.bst
+315 isn't valid ASCII for entry I-2-2-ref24
+while executing---line 1060 of file apalike.bst
+316 isn't valid ASCII for entry II-3-2-ref42
+while executing---line 1060 of file apalike.bst
+317 isn't valid ASCII for entry II-3-2-ref28
+while executing---line 1060 of file apalike.bst
+318 isn't valid ASCII for entry III-3-1-ref35
+while executing---line 1060 of file apalike.bst
+319 isn't valid ASCII for entry II-1-2-ref43
+while executing---line 1060 of file apalike.bst
+320 isn't valid ASCII for entry II-1-2-ref8
+while executing---line 1060 of file apalike.bst
+321 isn't valid ASCII for entry II-1-3-ref4
+while executing---line 1060 of file apalike.bst
+322 isn't valid ASCII for entry II-3-3-ref17
+while executing---line 1060 of file apalike.bst
+323 isn't valid ASCII for entry II-2-2-ref1
+while executing---line 1060 of file apalike.bst
+324 isn't valid ASCII for entry II-2-3-ref15
+while executing---line 1060 of file apalike.bst
+325 isn't valid ASCII for entry II-3-1-ref43
+while executing---line 1060 of file apalike.bst
+326 isn't valid ASCII for entry II-3-3-ref18
+while executing---line 1060 of file apalike.bst
+327 isn't valid ASCII for entry III-1-1-ref39
+while executing---line 1060 of file apalike.bst
+328 isn't valid ASCII for entry I-1-1-ref37
+while executing---line 1060 of file apalike.bst
+329 isn't valid ASCII for entry I-1-2-ref7
+while executing---line 1060 of file apalike.bst
+330 isn't valid ASCII for entry III-2-1-ref10
+while executing---line 1060 of file apalike.bst
+331 isn't valid ASCII for entry III-2-3-ref10
+while executing---line 1060 of file apalike.bst
+332 isn't valid ASCII for entry II-2-3-ref34
+while executing---line 1060 of file apalike.bst
+333 isn't valid ASCII for entry III-2-1-ref11
+while executing---line 1060 of file apalike.bst
+334 isn't valid ASCII for entry III-3-3-ref16
+while executing---line 1060 of file apalike.bst
+335 isn't valid ASCII for entry III-2-3-ref27
+while executing---line 1060 of file apalike.bst
+336 isn't valid ASCII for entry III-2-1-ref38
+while executing---line 1060 of file apalike.bst
+337 isn't valid ASCII for entry I-1-3-ref24
+while executing---line 1060 of file apalike.bst
+338 isn't valid ASCII for entry I-2-2-ref11
+while executing---line 1060 of file apalike.bst
+339 isn't valid ASCII for entry III-1-2-ref2
+while executing---line 1060 of file apalike.bst
+340 isn't valid ASCII for entry I-2-2-ref13
+while executing---line 1060 of file apalike.bst
+341 isn't valid ASCII for entry III-2-1-ref25
+while executing---line 1060 of file apalike.bst
+342 isn't valid ASCII for entry II-3-2-ref36
+while executing---line 1060 of file apalike.bst
+343 isn't valid ASCII for entry III-1-3-ref28
+while executing---line 1060 of file apalike.bst
+344 isn't valid ASCII for entry II-3-1-ref4
+while executing---line 1060 of file apalike.bst
+345 isn't valid ASCII for entry II-3-2-ref6
+while executing---line 1060 of file apalike.bst
+346 isn't valid ASCII for entry II-1-1-ref2
+while executing---line 1060 of file apalike.bst
+347 isn't valid ASCII for entry II-3-2-ref7
+while executing---line 1060 of file apalike.bst
+348 isn't valid ASCII for entry II-1-3-ref10
+while executing---line 1060 of file apalike.bst
+349 isn't valid ASCII for entry III-2-1-ref8
+while executing---line 1060 of file apalike.bst
+350 isn't valid ASCII for entry III-3-2-ref45
+while executing---line 1060 of file apalike.bst
+351 isn't valid ASCII for entry II-3-1-ref58
+while executing---line 1060 of file apalike.bst
+352 isn't valid ASCII for entry II-3-2-ref58
+while executing---line 1060 of file apalike.bst
+353 isn't valid ASCII for entry II-3-3-ref50
+while executing---line 1060 of file apalike.bst
+354 isn't valid ASCII for entry III-1-3-ref50
+while executing---line 1060 of file apalike.bst
+355 isn't valid ASCII for entry I-1-1-ref13
+while executing---line 1060 of file apalike.bst
+356 isn't valid ASCII for entry I-2-2-ref29
+while executing---line 1060 of file apalike.bst
+357 isn't valid ASCII for entry I-2-3-ref6
+while executing---line 1060 of file apalike.bst
+358 isn't valid ASCII for entry III-3-3-ref3
+while executing---line 1060 of file apalike.bst
+359 isn't valid ASCII for entry II-1-2-ref5
+while executing---line 1060 of file apalike.bst
+360 isn't valid ASCII for entry II-2-3-ref6
+while executing---line 1060 of file apalike.bst
+361 isn't valid ASCII for entry II-3-3-ref1
+while executing---line 1060 of file apalike.bst
+362 isn't valid ASCII for entry III-3-1-ref21
+while executing---line 1060 of file apalike.bst
+363 isn't valid ASCII for entry III-3-3-ref37
+while executing---line 1060 of file apalike.bst
+364 isn't valid ASCII for entry III-2-3-ref4
+while executing---line 1060 of file apalike.bst
+365 isn't valid ASCII for entry II-3-3-ref9
+while executing---line 1060 of file apalike.bst
+366 isn't valid ASCII for entry III-2-1-ref36
+while executing---line 1060 of file apalike.bst
+367 isn't valid ASCII for entry II-1-2-ref15
+while executing---line 1060 of file apalike.bst
+368 isn't valid ASCII for entry I-1-1-ref10
+while executing---line 1060 of file apalike.bst
+369 isn't valid ASCII for entry III-3-2-ref27
+while executing---line 1060 of file apalike.bst
+370 isn't valid ASCII for entry III-3-2-ref30
+while executing---line 1060 of file apalike.bst
+371 isn't valid ASCII for entry II-3-2-ref52
+while executing---line 1060 of file apalike.bst
+372 isn't valid ASCII for entry II-3-1-ref22
+while executing---line 1060 of file apalike.bst
+373 isn't valid ASCII for entry III-3-2-ref17
+while executing---line 1060 of file apalike.bst
+374 isn't valid ASCII for entry II-1-3-ref28
+while executing---line 1060 of file apalike.bst
+375 isn't valid ASCII for entry II-3-2-ref4
+while executing---line 1060 of file apalike.bst
+376 isn't valid ASCII for entry III-1-2-ref6
+while executing---line 1060 of file apalike.bst
+377 isn't valid ASCII for entry III-3-2-ref18
+while executing---line 1060 of file apalike.bst
+378 isn't valid ASCII for entry III-1-2-ref13
+while executing---line 1060 of file apalike.bst
+379 isn't valid ASCII for entry III-2-1-ref22
+while executing---line 1060 of file apalike.bst
+380 isn't valid ASCII for entry II-1-3-ref12
+while executing---line 1060 of file apalike.bst
+381 isn't valid ASCII for entry II-3-2-ref34
+while executing---line 1060 of file apalike.bst
+382 isn't valid ASCII for entry III-3-2-ref54
+while executing---line 1060 of file apalike.bst
+383 isn't valid ASCII for entry I-1-2-ref8
+while executing---line 1060 of file apalike.bst
+384 isn't valid ASCII for entry III-1-1-ref35
+while executing---line 1060 of file apalike.bst
+385 isn't valid ASCII for entry III-1-2-ref9
+while executing---line 1060 of file apalike.bst
+386 isn't valid ASCII for entry III-2-3-ref6
+while executing---line 1060 of file apalike.bst
+387 isn't valid ASCII for entry III-3-2-ref24
+while executing---line 1060 of file apalike.bst
+388 isn't valid ASCII for entry II-3-3-ref49
+while executing---line 1060 of file apalike.bst
+389 isn't valid ASCII for entry III-1-2-ref3
+while executing---line 1060 of file apalike.bst
+390 isn't valid ASCII for entry III-1-3-ref39
+while executing---line 1060 of file apalike.bst
+391 isn't valid ASCII for entry I-1-3-ref23
+while executing---line 1060 of file apalike.bst
+392 isn't valid ASCII for entry I-1-3-ref5
+while executing---line 1060 of file apalike.bst
+393 isn't valid ASCII for entry III-1-2-ref19
+while executing---line 1060 of file apalike.bst
+394 isn't valid ASCII for entry II-1-2-ref30
+while executing---line 1060 of file apalike.bst
+395 isn't valid ASCII for entry III-2-1-ref20
+while executing---line 1060 of file apalike.bst
+396 isn't valid ASCII for entry II-1-3-ref49
+while executing---line 1060 of file apalike.bst
+397 isn't valid ASCII for entry III-3-2-ref35
+while executing---line 1060 of file apalike.bst
+398 isn't valid ASCII for entry I-1-1-ref28
+while executing---line 1060 of file apalike.bst
+399 isn't valid ASCII for entry I-1-3-ref12
+while executing---line 1060 of file apalike.bst
+400 isn't valid ASCII for entry III-3-3-ref14
+while executing---line 1060 of file apalike.bst
+401 isn't valid ASCII for entry III-2-1-ref17
+while executing---line 1060 of file apalike.bst
+402 isn't valid ASCII for entry III-3-1-ref22
+while executing---line 1060 of file apalike.bst
+403 isn't valid ASCII for entry II-2-3-ref12
+while executing---line 1060 of file apalike.bst
+404 isn't valid ASCII for entry III-3-3-ref54
+while executing---line 1060 of file apalike.bst
+405 isn't valid ASCII for entry III-1-3-ref3
+while executing---line 1060 of file apalike.bst
+406 isn't valid ASCII for entry II-2-2-ref7
+while executing---line 1060 of file apalike.bst
+407 isn't valid ASCII for entry III-3-1-ref33
+while executing---line 1060 of file apalike.bst
+408 isn't valid ASCII for entry III-2-2-ref18
+while executing---line 1060 of file apalike.bst
+409 isn't valid ASCII for entry II-1-2-ref50
+while executing---line 1060 of file apalike.bst
+410 isn't valid ASCII for entry II-3-3-ref53
+while executing---line 1060 of file apalike.bst
+411 isn't valid ASCII for entry II-1-3-ref20
+while executing---line 1060 of file apalike.bst
+412 isn't valid ASCII for entry II-3-3-ref2
+while executing---line 1060 of file apalike.bst
+413 isn't valid ASCII for entry III-2-1-ref64
+while executing---line 1060 of file apalike.bst
+414 isn't valid ASCII for entry I-2-1-ref25
+while executing---line 1060 of file apalike.bst
+415 isn't valid ASCII for entry II-3-2-ref12
+while executing---line 1060 of file apalike.bst
+416 isn't valid ASCII for entry III-1-1-ref9
+while executing---line 1060 of file apalike.bst
+417 isn't valid ASCII for entry III-1-2-ref4
+while executing---line 1060 of file apalike.bst
+418 isn't valid ASCII for entry II-1-2-ref17
+while executing---line 1060 of file apalike.bst
+419 isn't valid ASCII for entry III-1-1-ref47
+while executing---line 1060 of file apalike.bst
+420 isn't valid ASCII for entry II-3-1-ref61
+while executing---line 1060 of file apalike.bst
+421 isn't valid ASCII for entry II-3-3-ref54
+while executing---line 1060 of file apalike.bst
+422 isn't valid ASCII for entry III-1-1-ref57
+while executing---line 1060 of file apalike.bst
+423 isn't valid ASCII for entry III-1-3-ref47
+while executing---line 1060 of file apalike.bst
+424 isn't valid ASCII for entry III-2-1-ref52
+while executing---line 1060 of file apalike.bst
+425 isn't valid ASCII for entry III-2-2-ref19
+while executing---line 1060 of file apalike.bst
+426 isn't valid ASCII for entry III-2-3-ref21
+while executing---line 1060 of file apalike.bst
+427 isn't valid ASCII for entry III-3-3-ref48
+while executing---line 1060 of file apalike.bst
+428 isn't valid ASCII for entry III-3-2-ref26
+while executing---line 1060 of file apalike.bst
+429 isn't valid ASCII for entry III-2-3-ref1
+while executing---line 1060 of file apalike.bst
+430 isn't valid ASCII for entry III-2-3-ref2
+while executing---line 1060 of file apalike.bst
+431 isn't valid ASCII for entry III-3-3-ref36
+while executing---line 1060 of file apalike.bst
+432 isn't valid ASCII for entry II-3-1-ref26
+while executing---line 1060 of file apalike.bst
+433 isn't valid ASCII for entry III-1-1-ref46
+while executing---line 1060 of file apalike.bst
+434 isn't valid ASCII for entry II-1-3-ref42
+while executing---line 1060 of file apalike.bst
+435 isn't valid ASCII for entry II-3-1-ref45
+while executing---line 1060 of file apalike.bst
+436 isn't valid ASCII for entry III-3-1-ref39
+while executing---line 1060 of file apalike.bst
+437 isn't valid ASCII for entry III-3-2-ref6
+while executing---line 1060 of file apalike.bst
+438 isn't valid ASCII for entry II-2-3-ref2
+while executing---line 1060 of file apalike.bst
+439 isn't valid ASCII for entry II-1-3-ref38
+while executing---line 1060 of file apalike.bst
+440 isn't valid ASCII for entry III-2-1-ref66
+while executing---line 1060 of file apalike.bst
+441 isn't valid ASCII for entry III-3-2-ref42
+while executing---line 1060 of file apalike.bst
+442 isn't valid ASCII for entry III-2-1-ref57
+while executing---line 1060 of file apalike.bst
+443 isn't valid ASCII for entry III-2-2-ref20
+while executing---line 1060 of file apalike.bst
+444 isn't valid ASCII for entry III-1-3-ref27
+while executing---line 1060 of file apalike.bst
+445 isn't valid ASCII for entry II-3-2-ref25
+while executing---line 1060 of file apalike.bst
+446 isn't valid ASCII for entry III-1-1-ref7
+while executing---line 1060 of file apalike.bst
+447 isn't valid ASCII for entry III-3-3-ref58
+while executing---line 1060 of file apalike.bst
+448 isn't valid ASCII for entry III-2-2-ref22
+while executing---line 1060 of file apalike.bst
+449 isn't valid ASCII for entry III-2-1-ref54
+while executing---line 1060 of file apalike.bst
+450 isn't valid ASCII for entry III-2-2-ref16
+while executing---line 1060 of file apalike.bst
+451 isn't valid ASCII for entry III-2-3-ref32
+while executing---line 1060 of file apalike.bst
+452 isn't valid ASCII for entry II-1-2-ref6
+while executing---line 1060 of file apalike.bst
+453 isn't valid ASCII for entry II-1-3-ref31
+while executing---line 1060 of file apalike.bst
+454 isn't valid ASCII for entry II-2-2-ref47
+while executing---line 1060 of file apalike.bst
+455 isn't valid ASCII for entry II-1-3-ref40
+while executing---line 1060 of file apalike.bst
+456 isn't valid ASCII for entry III-1-3-ref37
+while executing---line 1060 of file apalike.bst
+457 isn't valid ASCII for entry III-1-1-ref19
+while executing---line 1060 of file apalike.bst
+458 isn't valid ASCII for entry I-2-1-ref7
+while executing---line 1060 of file apalike.bst
+459 isn't valid ASCII for entry I-1-2-ref35
+while executing---line 1060 of file apalike.bst
+460 isn't valid ASCII for entry II-1-2-ref66
+while executing---line 1060 of file apalike.bst
+461 isn't valid ASCII for entry III-1-2-ref1
+while executing---line 1060 of file apalike.bst
+462 isn't valid ASCII for entry II-2-3-ref4
+while executing---line 1060 of file apalike.bst
+463 isn't valid ASCII for entry III-2-1-ref44
+while executing---line 1060 of file apalike.bst
+464 isn't valid ASCII for entry II-2-3-ref20
+while executing---line 1060 of file apalike.bst
+465 isn't valid ASCII for entry I-2-1-ref3
+while executing---line 1060 of file apalike.bst
+466 isn't valid ASCII for entry I-2-3-ref24
+while executing---line 1060 of file apalike.bst
+467 isn't valid ASCII for entry II-3-2-ref57
+while executing---line 1060 of file apalike.bst
+468 isn't valid ASCII for entry II-2-3-ref13
+while executing---line 1060 of file apalike.bst
+469 isn't valid ASCII for entry III-3-3-ref24
+while executing---line 1060 of file apalike.bst
+470 isn't valid ASCII for entry II-3-1-ref28
+while executing---line 1060 of file apalike.bst
+471 isn't valid ASCII for entry II-3-2-ref17
+while executing---line 1060 of file apalike.bst
+472 isn't valid ASCII for entry III-3-2-ref2
+while executing---line 1060 of file apalike.bst
+473 isn't valid ASCII for entry III-3-1-ref5
+while executing---line 1060 of file apalike.bst
+474 isn't valid ASCII for entry III-1-2-ref8
+while executing---line 1060 of file apalike.bst
+475 isn't valid ASCII for entry II-2-2-ref33
+while executing---line 1060 of file apalike.bst
+476 isn't valid ASCII for entry III-1-1-ref42
+while executing---line 1060 of file apalike.bst
+477 isn't valid ASCII for entry II-1-1-ref35
+while executing---line 1060 of file apalike.bst
+478 isn't valid ASCII for entry II-1-1-ref15
+while executing---line 1060 of file apalike.bst
+479 isn't valid ASCII for entry II-2-2-ref30
+while executing---line 1060 of file apalike.bst
+480 isn't valid ASCII for entry II-3-1-ref3
+while executing---line 1060 of file apalike.bst
+481 isn't valid ASCII for entry III-2-3-ref3
+while executing---line 1060 of file apalike.bst
+482 isn't valid ASCII for entry III-3-1-ref40
+while executing---line 1060 of file apalike.bst
+483 isn't valid ASCII for entry III-1-3-ref29
+while executing---line 1060 of file apalike.bst
+484 isn't valid ASCII for entry III-3-3-ref61
+while executing---line 1060 of file apalike.bst
+You've used 628 entries,
+            1935 wiz_defined-function locations,
+            3415 strings with 156249 characters,
+and the built_in function-call counts, 166513 in all, are:
+= -- 17832
+> -- 5771
+< -- 560
++ -- 2350
+- -- 1766
+* -- 10640
+:= -- 32751
+add.period$ -- 2315
+call.type$ -- 628
+change.case$ -- 4023
+chr.to.int$ -- 174
+cite$ -- 628
+duplicate$ -- 6280
+empty$ -- 9421
+format.name$ -- 2458
+if$ -- 30562
+int.to.chr$ -- 455
+int.to.str$ -- 0
+missing$ -- 0
+newline$ -- 3574
+num.names$ -- 1884
+pop$ -- 1776
+preamble$ -- 1
+purify$ -- 4023
+quote$ -- 0
+skip$ -- 5551
+stack$ -- 0
+substring$ -- 7666
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 3768
+warning$ -- 0
+while$ -- 1256
+width$ -- 0
+write$ -- 8400
+(There were 357 error messages)

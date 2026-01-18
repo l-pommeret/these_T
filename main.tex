@@ -1,0 +1,112 @@
+\documentclass[a4paper,12pt,twoside]{report}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[french]{babel}
+\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage[top=2.5cm, bottom=2.5cm, left=3cm, right=3cm, headsep=1cm, headheight=15pt]{geometry}
+\usepackage{libertine}
+\usepackage[libertine]{newtxmath}
+\usepackage{microtype}
+\usepackage{indentfirst}
+\usepackage{setspace}
+\onehalfspacing
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+
+% French Citation Style with Natbib
+\usepackage[round]{natbib}
+
+% Configuration des en-têtes
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\thepage}
+\fancyhead[RE]{\textit{\nouppercase{\leftmark}}}
+\fancyhead[LO]{\textit{\nouppercase{\rightmark}}}
+\renewcommand{\headrulewidth}{0.4pt}
+
+% Style des titres
+\titleformat{\chapter}[display]
+  {\normalfont\huge\bfseries\centering}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
+\titlespacing*{\chapter}{0pt}{0pt}{40pt}
+
+\title{Le grec ancien, langue ancienne ou langue seconde ? \\ \large Archéologie d'une méthode (1870-2024) et refondation cognitive}
+\author{User}
+\date{\today}
+
+\begin{document}
+\maketitle
+\tableofcontents
+
+% Introduction
+\chapter*{Introduction}
+\addcontentsline{toc}{chapter}{Introduction}
+
+\input{sous-parties/0-Introduction/1-Exorde.tex}
+\input{sous-parties/0-Introduction/2-Histoire.tex}
+\input{sous-parties/0-Introduction/3-Science.tex}
+\input{sous-parties/0-Introduction/4-Problematique.tex}
+
+% Partie I
+\part{Histoire politique et idéologique de l'enseignement du grec (1870-2024)}
+
+\chapter{L'invention d'une tradition (1870-1902)}
+\input{sous-parties/I/1/I-1-1.tex}
+\input{sous-parties/I/1/I-1-2.tex}
+\input{sous-parties/I/1/I-1-3.tex}
+
+\chapter{La Citadelle assiégée : Le maintien du dogme face à la modernité (1902-1968)}
+\input{sous-parties/I/2/I-2-1.tex}
+\input{sous-parties/I/2/I-2-2.tex}
+\input{sous-parties/I/2/I-2-3.tex}
+
+\chapter{L'Agonie institutionnelle et la "rémanence" pédagogique (1968-2024)}
+\input{sous-parties/I/3/I-3-1.tex}
+\input{sous-parties/I/3/I-3-2.tex}
+\input{sous-parties/I/3/I-3-3.tex}
+
+% Partie II
+\part{La critique scientifique : Pourquoi le cerveau ne peut pas apprendre comme ça}
+
+\chapter{Critique du "Muscle Mental" : L'illusion du Transfert Cognitif}
+\input{sous-parties/II/1/II-1-1.tex}
+\input{sous-parties/II/1/II-1-2.tex}
+\input{sous-parties/II/1/II-1-3.tex}
+
+\chapter{Critique du "Tout Grammaire" : L'erreur neurobiologique}
+\input{sous-parties/II/2/II-2-1.tex}
+\input{sous-parties/II/2/II-2-2.tex}
+\input{sous-parties/II/2/II-2-3.tex}
+
+\chapter{Critique du "Déchiffrage" : Psycholinguistique de la lecture}
+\input{sous-parties/II/3/II-3-1.tex}
+\input{sous-parties/II/3/II-3-2.tex}
+\input{sous-parties/II/3/II-3-3.tex}
+
+% Partie III
+\part{Refondation : Vers une Approche Communicative et Lexicale Intégrée (SLA)}
+
+\chapter{La Priorisation Lexicale : La Règle de l'Efficacité}
+\input{sous-parties/III/1/III-1-1.tex}
+\input{sous-parties/III/1/III-1-2.tex}
+\input{sous-parties/III/1/III-1-3.tex}
+
+\chapter{L'Approche Communicative et Dynamique (Modèle Polis)}
+\input{sous-parties/III/2/III-2-1.tex}
+\input{sous-parties/III/2/III-2-2.tex}
+\input{sous-parties/III/2/III-2-3.tex}
+
+\chapter{Fondements Neurocognitifs et Consolidation}
+\input{sous-parties/III/3/III-3-1.tex}
+\input{sous-parties/III/3/III-3-2.tex}
+\input{sous-parties/III/3/III-3-3.tex}
+
+\chapter{Continuité et Ponts Linguistiques}
+\input{sous-parties/III/4/III-4-1.tex}
+\input{sous-parties/III/4/III-4-2.tex}
+
+\newpage
+\bibliographystyle{apalike}
+\bibliography{sous-parties/master}
+
+\end{document}
